@@ -1,0 +1,732 @@
+[NanoDet][08-25 22:47:31]INFO: Setting up data...
+[NanoDet][08-25 22:47:31]INFO: Creating model...
+[NanoDet][08-25 22:47:31]INFO: 使用 CPU 进行训练
+[NanoDet][08-25 22:47:31]INFO: Train|Epoch1/180|Iter0(1)| mem:0G| lr:7.00e-07| loss_qfl:0.3240| loss_bbox:1.2455| loss_dfl:0.4036| loss_feat_kd:54.6598| loss_cls_kd:0.0823| loss_reg_kd:0.2286| 
+[NanoDet][08-25 22:47:37]INFO: Train|Epoch1/180|Iter50(51)| mem:0G| lr:3.50e-03| loss_qfl:0.4767| loss_bbox:1.2125| loss_dfl:0.3974| loss_feat_kd:20.9734| loss_cls_kd:0.0934| loss_reg_kd:0.2102| 
+[NanoDet][08-25 22:47:43]INFO: Train|Epoch2/180|Iter100(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3976| loss_bbox:0.8760| loss_dfl:0.3711| loss_feat_kd:29.2163| loss_cls_kd:0.0928| loss_reg_kd:0.2053| 
+[NanoDet][08-25 22:47:49]INFO: Train|Epoch2/180|Iter150(51)| mem:0G| lr:1.05e-02| loss_qfl:0.4266| loss_bbox:0.8456| loss_dfl:0.3462| loss_feat_kd:24.3712| loss_cls_kd:0.0815| loss_reg_kd:0.1878| 
+[NanoDet][08-25 22:47:57]INFO: Train|Epoch3/180|Iter200(1)| mem:0G| lr:1.40e-02| loss_qfl:0.3409| loss_bbox:1.1793| loss_dfl:0.3753| loss_feat_kd:18.5386| loss_cls_kd:0.0918| loss_reg_kd:0.1885| 
+[NanoDet][08-25 22:48:02]INFO: Train|Epoch3/180|Iter250(51)| mem:0G| lr:1.75e-02| loss_qfl:0.3897| loss_bbox:0.7642| loss_dfl:0.3114| loss_feat_kd:24.6634| loss_cls_kd:0.0840| loss_reg_kd:0.2010| 
+[NanoDet][08-25 22:48:08]INFO: Train|Epoch4/180|Iter300(1)| mem:0G| lr:2.10e-02| loss_qfl:0.3264| loss_bbox:0.8809| loss_dfl:0.3446| loss_feat_kd:16.3104| loss_cls_kd:0.0763| loss_reg_kd:0.1644| 
+[NanoDet][08-25 22:48:14]INFO: Train|Epoch4/180|Iter350(51)| mem:0G| lr:2.45e-02| loss_qfl:0.4989| loss_bbox:0.7936| loss_dfl:0.3213| loss_feat_kd:13.9326| loss_cls_kd:0.0825| loss_reg_kd:0.1690| 
+[NanoDet][08-25 22:48:20]INFO: Train|Epoch5/180|Iter400(1)| mem:0G| lr:2.80e-02| loss_qfl:0.3646| loss_bbox:0.8491| loss_dfl:0.3304| loss_feat_kd:12.6377| loss_cls_kd:0.0808| loss_reg_kd:0.1522| 
+[NanoDet][08-25 22:48:27]INFO: Train|Epoch5/180|Iter450(51)| mem:0G| lr:3.15e-02| loss_qfl:0.3031| loss_bbox:0.7922| loss_dfl:0.3095| loss_feat_kd:16.9652| loss_cls_kd:0.0865| loss_reg_kd:0.1544| 
+[NanoDet][08-25 22:48:34]INFO: Train|Epoch6/180|Iter500(1)| mem:0G| lr:3.50e-02| loss_qfl:0.3269| loss_bbox:0.7744| loss_dfl:0.3361| loss_feat_kd:23.9040| loss_cls_kd:0.0774| loss_reg_kd:0.1587| 
+[NanoDet][08-25 22:48:39]INFO: Train|Epoch6/180|Iter550(51)| mem:0G| lr:3.85e-02| loss_qfl:0.2583| loss_bbox:0.8245| loss_dfl:0.3011| loss_feat_kd:17.1225| loss_cls_kd:0.0842| loss_reg_kd:0.1424| 
+[NanoDet][08-25 22:48:46]INFO: Train|Epoch7/180|Iter600(1)| mem:0G| lr:4.20e-02| loss_qfl:0.3391| loss_bbox:0.6333| loss_dfl:0.2671| loss_feat_kd:20.4758| loss_cls_kd:0.0865| loss_reg_kd:0.1412| 
+[NanoDet][08-25 22:48:52]INFO: Train|Epoch7/180|Iter650(51)| mem:0G| lr:4.55e-02| loss_qfl:0.3747| loss_bbox:0.8018| loss_dfl:0.3292| loss_feat_kd:11.7428| loss_cls_kd:0.0842| loss_reg_kd:0.1294| 
+[NanoDet][08-25 22:48:59]INFO: Train|Epoch8/180|Iter700(1)| mem:0G| lr:4.90e-02| loss_qfl:0.3429| loss_bbox:0.7722| loss_dfl:0.3136| loss_feat_kd:15.1402| loss_cls_kd:0.0810| loss_reg_kd:0.1361| 
+[NanoDet][08-25 22:49:05]INFO: Train|Epoch8/180|Iter750(51)| mem:0G| lr:5.25e-02| loss_qfl:0.3383| loss_bbox:0.8054| loss_dfl:0.3218| loss_feat_kd:14.6844| loss_cls_kd:0.0884| loss_reg_kd:0.1316| 
+[NanoDet][08-25 22:49:11]INFO: Train|Epoch9/180|Iter800(1)| mem:0G| lr:5.60e-02| loss_qfl:0.3458| loss_bbox:0.7003| loss_dfl:0.2791| loss_feat_kd:17.1768| loss_cls_kd:0.0818| loss_reg_kd:0.1318| 
+[NanoDet][08-25 22:49:17]INFO: Train|Epoch9/180|Iter850(51)| mem:0G| lr:5.95e-02| loss_qfl:0.3202| loss_bbox:0.6890| loss_dfl:0.2903| loss_feat_kd:14.0880| loss_cls_kd:0.0758| loss_reg_kd:0.1093| 
+[NanoDet][08-25 22:49:24]INFO: Train|Epoch10/180|Iter900(1)| mem:0G| lr:6.30e-02| loss_qfl:0.3309| loss_bbox:0.6567| loss_dfl:0.2958| loss_feat_kd:12.6386| loss_cls_kd:0.0795| loss_reg_kd:0.1163| 
+[NanoDet][08-25 22:49:31]INFO: Train|Epoch10/180|Iter950(51)| mem:0G| lr:6.65e-02| loss_qfl:0.4267| loss_bbox:0.5665| loss_dfl:0.2516| loss_feat_kd:19.1539| loss_cls_kd:0.0834| loss_reg_kd:0.1277| 
+[NanoDet][08-25 22:49:36]INFO: Val|Epoch10/180|Iter1000(1/13)| mem:0G| lr:6.99e-02| loss_qfl:0.7631| loss_bbox:0.7007| loss_dfl:0.3866| 
+[NanoDet][08-25 22:49:37]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.123
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.373
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.037
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.135
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.193
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.389
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.436
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.083
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.466
+
+[NanoDet][08-25 22:49:37]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 37.3   | 12.3  |
+[NanoDet][08-25 22:49:37]INFO: Saving model to workspace/nanodet_m_100kb_loss_cls_kvasir\model_best\nanodet_model_best.pth
+[NanoDet][08-25 22:49:37]INFO: Val_metrics: {'mAP': np.float64(0.122731880541272), 'AP_50': np.float64(0.37255138825263445), 'AP_75': np.float64(0.03684961273885215), 'AP_small': np.float64(0.0), 'AP_m': np.float64(5.469805301886244e-05), 'AP_l': np.float64(0.13486466519886484)}
+[NanoDet][08-25 22:49:37]INFO: Train|Epoch11/180|Iter1000(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3325| loss_bbox:0.6461| loss_dfl:0.2397| loss_feat_kd:23.2726| loss_cls_kd:0.0986| loss_reg_kd:0.1371| 
+[NanoDet][08-25 22:49:44]INFO: Train|Epoch11/180|Iter1050(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3337| loss_bbox:0.5119| loss_dfl:0.2436| loss_feat_kd:16.4482| loss_cls_kd:0.0761| loss_reg_kd:0.1055| 
+[NanoDet][08-25 22:49:50]INFO: Train|Epoch12/180|Iter1100(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3216| loss_bbox:0.5586| loss_dfl:0.2679| loss_feat_kd:13.4526| loss_cls_kd:0.0744| loss_reg_kd:0.1088| 
+[NanoDet][08-25 22:49:57]INFO: Train|Epoch12/180|Iter1150(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3759| loss_bbox:0.5744| loss_dfl:0.2651| loss_feat_kd:12.8563| loss_cls_kd:0.0791| loss_reg_kd:0.1157| 
+[NanoDet][08-25 22:50:03]INFO: Train|Epoch13/180|Iter1200(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3644| loss_bbox:0.6149| loss_dfl:0.2713| loss_feat_kd:12.7538| loss_cls_kd:0.0790| loss_reg_kd:0.1063| 
+[NanoDet][08-25 22:50:09]INFO: Train|Epoch13/180|Iter1250(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4276| loss_bbox:0.7955| loss_dfl:0.2642| loss_feat_kd:14.3373| loss_cls_kd:0.0829| loss_reg_kd:0.1057| 
+[NanoDet][08-25 22:50:15]INFO: Train|Epoch14/180|Iter1300(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3459| loss_bbox:0.7469| loss_dfl:0.3048| loss_feat_kd:21.7689| loss_cls_kd:0.0829| loss_reg_kd:0.1192| 
+[NanoDet][08-25 22:50:21]INFO: Train|Epoch14/180|Iter1350(51)| mem:0G| lr:7.00e-02| loss_qfl:0.5037| loss_bbox:0.6704| loss_dfl:0.2783| loss_feat_kd:15.8297| loss_cls_kd:0.0785| loss_reg_kd:0.0936| 
+[NanoDet][08-25 22:50:28]INFO: Train|Epoch15/180|Iter1400(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3555| loss_bbox:0.6513| loss_dfl:0.2509| loss_feat_kd:14.4920| loss_cls_kd:0.0832| loss_reg_kd:0.1071| 
+[NanoDet][08-25 22:50:34]INFO: Train|Epoch15/180|Iter1450(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2600| loss_bbox:0.5985| loss_dfl:0.2548| loss_feat_kd:15.8891| loss_cls_kd:0.0674| loss_reg_kd:0.0901| 
+[NanoDet][08-25 22:50:40]INFO: Train|Epoch16/180|Iter1500(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4346| loss_bbox:0.6738| loss_dfl:0.2681| loss_feat_kd:18.7980| loss_cls_kd:0.0855| loss_reg_kd:0.1088| 
+[NanoDet][08-25 22:50:46]INFO: Train|Epoch16/180|Iter1550(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3757| loss_bbox:0.5941| loss_dfl:0.2519| loss_feat_kd:15.0175| loss_cls_kd:0.0747| loss_reg_kd:0.1000| 
+[NanoDet][08-25 22:50:52]INFO: Train|Epoch17/180|Iter1600(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4036| loss_bbox:0.4809| loss_dfl:0.2265| loss_feat_kd:17.0127| loss_cls_kd:0.0891| loss_reg_kd:0.1175| 
+[NanoDet][08-25 22:50:59]INFO: Train|Epoch17/180|Iter1650(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3224| loss_bbox:0.6947| loss_dfl:0.2757| loss_feat_kd:10.5516| loss_cls_kd:0.0812| loss_reg_kd:0.0979| 
+[NanoDet][08-25 22:51:05]INFO: Train|Epoch18/180|Iter1700(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3237| loss_bbox:0.6066| loss_dfl:0.2429| loss_feat_kd:15.0155| loss_cls_kd:0.0812| loss_reg_kd:0.0913| 
+[NanoDet][08-25 22:51:11]INFO: Train|Epoch18/180|Iter1750(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4571| loss_bbox:0.6170| loss_dfl:0.2692| loss_feat_kd:12.2174| loss_cls_kd:0.0930| loss_reg_kd:0.1182| 
+[NanoDet][08-25 22:51:17]INFO: Train|Epoch19/180|Iter1800(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2830| loss_bbox:0.6178| loss_dfl:0.2633| loss_feat_kd:12.5079| loss_cls_kd:0.0800| loss_reg_kd:0.1054| 
+[NanoDet][08-25 22:51:24]INFO: Train|Epoch19/180|Iter1850(51)| mem:0G| lr:7.00e-02| loss_qfl:0.1864| loss_bbox:0.6897| loss_dfl:0.2629| loss_feat_kd:17.3911| loss_cls_kd:0.0855| loss_reg_kd:0.1044| 
+[NanoDet][08-25 22:51:30]INFO: Train|Epoch20/180|Iter1900(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3381| loss_bbox:0.6125| loss_dfl:0.2498| loss_feat_kd:10.2268| loss_cls_kd:0.0910| loss_reg_kd:0.1041| 
+[NanoDet][08-25 22:51:36]INFO: Train|Epoch20/180|Iter1950(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3183| loss_bbox:0.5339| loss_dfl:0.2426| loss_feat_kd:14.3874| loss_cls_kd:0.0756| loss_reg_kd:0.0949| 
+[NanoDet][08-25 22:51:42]INFO: Val|Epoch20/180|Iter2000(1/13)| mem:0G| lr:7.00e-02| loss_qfl:0.4029| loss_bbox:0.5410| loss_dfl:0.2566| 
+[NanoDet][08-25 22:51:43]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.224
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.557
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.156
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.005
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.242
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.289
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.436
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.493
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.400
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.508
+
+[NanoDet][08-25 22:51:43]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 55.7   | 22.4  |
+[NanoDet][08-25 22:51:43]INFO: Saving model to workspace/nanodet_m_100kb_loss_cls_kvasir\model_best\nanodet_model_best.pth
+[NanoDet][08-25 22:51:43]INFO: Val_metrics: {'mAP': np.float64(0.22420225630434304), 'AP_50': np.float64(0.5567508381554942), 'AP_75': np.float64(0.15606052582588184), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.005156414587143547), 'AP_l': np.float64(0.24240860353871133)}
+[NanoDet][08-25 22:51:43]INFO: Train|Epoch21/180|Iter2000(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3266| loss_bbox:0.5595| loss_dfl:0.2672| loss_feat_kd:12.8286| loss_cls_kd:0.0842| loss_reg_kd:0.1039| 
+[NanoDet][08-25 22:51:49]INFO: Train|Epoch21/180|Iter2050(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4055| loss_bbox:0.6105| loss_dfl:0.2708| loss_feat_kd:11.1942| loss_cls_kd:0.0845| loss_reg_kd:0.1050| 
+[NanoDet][08-25 22:51:56]INFO: Train|Epoch22/180|Iter2100(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2977| loss_bbox:0.5861| loss_dfl:0.2794| loss_feat_kd:10.6408| loss_cls_kd:0.0808| loss_reg_kd:0.0945| 
+[NanoDet][08-25 22:52:02]INFO: Train|Epoch22/180|Iter2150(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2961| loss_bbox:0.5184| loss_dfl:0.2432| loss_feat_kd:14.6786| loss_cls_kd:0.0791| loss_reg_kd:0.0898| 
+[NanoDet][08-25 22:52:08]INFO: Train|Epoch23/180|Iter2200(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4048| loss_bbox:0.6338| loss_dfl:0.2568| loss_feat_kd:12.4736| loss_cls_kd:0.0848| loss_reg_kd:0.0962| 
+[NanoDet][08-25 22:52:14]INFO: Train|Epoch23/180|Iter2250(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4503| loss_bbox:0.6692| loss_dfl:0.2836| loss_feat_kd:12.4667| loss_cls_kd:0.0767| loss_reg_kd:0.0947| 
+[NanoDet][08-25 22:52:20]INFO: Train|Epoch24/180|Iter2300(1)| mem:0G| lr:7.00e-02| loss_qfl:0.5505| loss_bbox:0.5483| loss_dfl:0.2312| loss_feat_kd:18.0051| loss_cls_kd:0.0818| loss_reg_kd:0.1085| 
+[NanoDet][08-25 22:52:27]INFO: Train|Epoch24/180|Iter2350(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3216| loss_bbox:0.4401| loss_dfl:0.2248| loss_feat_kd:13.6199| loss_cls_kd:0.0835| loss_reg_kd:0.0936| 
+[NanoDet][08-25 22:52:33]INFO: Train|Epoch25/180|Iter2400(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3884| loss_bbox:0.5500| loss_dfl:0.2295| loss_feat_kd:17.1631| loss_cls_kd:0.0745| loss_reg_kd:0.0986| 
+[NanoDet][08-25 22:52:39]INFO: Train|Epoch25/180|Iter2450(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3739| loss_bbox:0.6270| loss_dfl:0.2683| loss_feat_kd:15.9494| loss_cls_kd:0.0786| loss_reg_kd:0.0866| 
+[NanoDet][08-25 22:52:45]INFO: Train|Epoch26/180|Iter2500(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3024| loss_bbox:0.6854| loss_dfl:0.2436| loss_feat_kd:20.3292| loss_cls_kd:0.0814| loss_reg_kd:0.0899| 
+[NanoDet][08-25 22:52:51]INFO: Train|Epoch26/180|Iter2550(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2532| loss_bbox:0.5949| loss_dfl:0.2247| loss_feat_kd:18.4604| loss_cls_kd:0.0891| loss_reg_kd:0.1101| 
+[NanoDet][08-25 22:52:58]INFO: Train|Epoch27/180|Iter2600(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2783| loss_bbox:0.7216| loss_dfl:0.2857| loss_feat_kd:10.8176| loss_cls_kd:0.0735| loss_reg_kd:0.0870| 
+[NanoDet][08-25 22:53:04]INFO: Train|Epoch27/180|Iter2650(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3440| loss_bbox:0.4863| loss_dfl:0.2151| loss_feat_kd:13.2001| loss_cls_kd:0.0696| loss_reg_kd:0.0851| 
+[NanoDet][08-25 22:53:10]INFO: Train|Epoch28/180|Iter2700(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4932| loss_bbox:0.6280| loss_dfl:0.2595| loss_feat_kd:6.7438| loss_cls_kd:0.0859| loss_reg_kd:0.0969| 
+[NanoDet][08-25 22:53:16]INFO: Train|Epoch28/180|Iter2750(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3695| loss_bbox:0.5354| loss_dfl:0.2244| loss_feat_kd:14.7560| loss_cls_kd:0.0814| loss_reg_kd:0.0923| 
+[NanoDet][08-25 22:53:21]INFO: Train|Epoch29/180|Iter2800(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3569| loss_bbox:0.5153| loss_dfl:0.2373| loss_feat_kd:17.9759| loss_cls_kd:0.0834| loss_reg_kd:0.0979| 
+[NanoDet][08-25 22:53:28]INFO: Train|Epoch29/180|Iter2850(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2707| loss_bbox:0.5475| loss_dfl:0.2436| loss_feat_kd:10.6922| loss_cls_kd:0.0840| loss_reg_kd:0.0970| 
+[NanoDet][08-25 22:53:35]INFO: Train|Epoch30/180|Iter2900(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3865| loss_bbox:0.6770| loss_dfl:0.2914| loss_feat_kd:17.3129| loss_cls_kd:0.0873| loss_reg_kd:0.1051| 
+[NanoDet][08-25 22:53:40]INFO: Train|Epoch30/180|Iter2950(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3453| loss_bbox:0.6264| loss_dfl:0.2400| loss_feat_kd:14.8614| loss_cls_kd:0.0775| loss_reg_kd:0.0881| 
+[NanoDet][08-25 22:53:46]INFO: Val|Epoch30/180|Iter3000(1/13)| mem:0G| lr:7.00e-02| loss_qfl:0.4495| loss_bbox:0.5272| loss_dfl:0.2503| 
+[NanoDet][08-25 22:53:47]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.268
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.595
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.197
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.006
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.306
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.349
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.485
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.536
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.400
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.556
+
+[NanoDet][08-25 22:53:47]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 59.5   | 26.8  |
+[NanoDet][08-25 22:53:47]INFO: Saving model to workspace/nanodet_m_100kb_loss_cls_kvasir\model_best\nanodet_model_best.pth
+[NanoDet][08-25 22:53:47]INFO: Val_metrics: {'mAP': np.float64(0.26785759170363704), 'AP_50': np.float64(0.595106600849876), 'AP_75': np.float64(0.19703298226255345), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.006393264846690446), 'AP_l': np.float64(0.30579610242057675)}
+[NanoDet][08-25 22:53:47]INFO: Train|Epoch31/180|Iter3000(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4169| loss_bbox:0.4798| loss_dfl:0.2236| loss_feat_kd:11.5401| loss_cls_kd:0.0776| loss_reg_kd:0.0961| 
+[NanoDet][08-25 22:53:54]INFO: Train|Epoch31/180|Iter3050(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4191| loss_bbox:0.5713| loss_dfl:0.2249| loss_feat_kd:14.4165| loss_cls_kd:0.0699| loss_reg_kd:0.0878| 
+[NanoDet][08-25 22:54:00]INFO: Train|Epoch32/180|Iter3100(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3301| loss_bbox:0.6209| loss_dfl:0.2340| loss_feat_kd:19.8979| loss_cls_kd:0.0844| loss_reg_kd:0.1037| 
+[NanoDet][08-25 22:54:06]INFO: Train|Epoch32/180|Iter3150(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4026| loss_bbox:0.4313| loss_dfl:0.1985| loss_feat_kd:10.0054| loss_cls_kd:0.0800| loss_reg_kd:0.0921| 
+[NanoDet][08-25 22:54:12]INFO: Train|Epoch33/180|Iter3200(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3272| loss_bbox:0.5643| loss_dfl:0.2307| loss_feat_kd:12.4559| loss_cls_kd:0.0713| loss_reg_kd:0.0918| 
+[NanoDet][08-25 22:54:17]INFO: Train|Epoch33/180|Iter3250(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3173| loss_bbox:0.5376| loss_dfl:0.2284| loss_feat_kd:10.2994| loss_cls_kd:0.0785| loss_reg_kd:0.0953| 
+[NanoDet][08-25 22:54:25]INFO: Train|Epoch34/180|Iter3300(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3921| loss_bbox:0.5698| loss_dfl:0.2623| loss_feat_kd:14.7779| loss_cls_kd:0.0814| loss_reg_kd:0.0913| 
+[NanoDet][08-25 22:54:31]INFO: Train|Epoch34/180|Iter3350(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3896| loss_bbox:0.5139| loss_dfl:0.2332| loss_feat_kd:13.0868| loss_cls_kd:0.0878| loss_reg_kd:0.1095| 
+[NanoDet][08-25 22:54:36]INFO: Train|Epoch35/180|Iter3400(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4706| loss_bbox:0.5958| loss_dfl:0.2780| loss_feat_kd:9.5698| loss_cls_kd:0.0830| loss_reg_kd:0.0908| 
+[NanoDet][08-25 22:54:42]INFO: Train|Epoch35/180|Iter3450(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4585| loss_bbox:0.5355| loss_dfl:0.2321| loss_feat_kd:13.7087| loss_cls_kd:0.0840| loss_reg_kd:0.0834| 
+[NanoDet][08-25 22:54:48]INFO: Train|Epoch36/180|Iter3500(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2730| loss_bbox:0.4674| loss_dfl:0.2197| loss_feat_kd:14.8894| loss_cls_kd:0.0779| loss_reg_kd:0.0952| 
+[NanoDet][08-25 22:54:55]INFO: Train|Epoch36/180|Iter3550(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3148| loss_bbox:0.5460| loss_dfl:0.2761| loss_feat_kd:14.8149| loss_cls_kd:0.0817| loss_reg_kd:0.0935| 
+[NanoDet][08-25 22:55:01]INFO: Train|Epoch37/180|Iter3600(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2968| loss_bbox:0.5652| loss_dfl:0.2533| loss_feat_kd:17.3292| loss_cls_kd:0.0748| loss_reg_kd:0.0908| 
+[NanoDet][08-25 22:55:07]INFO: Train|Epoch37/180|Iter3650(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4655| loss_bbox:0.4683| loss_dfl:0.2106| loss_feat_kd:11.2856| loss_cls_kd:0.0781| loss_reg_kd:0.0863| 
+[NanoDet][08-25 22:55:13]INFO: Train|Epoch38/180|Iter3700(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4369| loss_bbox:0.4104| loss_dfl:0.2125| loss_feat_kd:13.6870| loss_cls_kd:0.0891| loss_reg_kd:0.1032| 
+[NanoDet][08-25 22:55:19]INFO: Train|Epoch38/180|Iter3750(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4360| loss_bbox:0.4787| loss_dfl:0.2227| loss_feat_kd:10.3037| loss_cls_kd:0.0762| loss_reg_kd:0.0848| 
+[NanoDet][08-25 22:55:26]INFO: Train|Epoch39/180|Iter3800(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4995| loss_bbox:0.5533| loss_dfl:0.2404| loss_feat_kd:8.6768| loss_cls_kd:0.0913| loss_reg_kd:0.0930| 
+[NanoDet][08-25 22:55:32]INFO: Train|Epoch39/180|Iter3850(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3323| loss_bbox:0.6792| loss_dfl:0.2818| loss_feat_kd:11.6205| loss_cls_kd:0.0763| loss_reg_kd:0.0868| 
+[NanoDet][08-25 22:55:37]INFO: Train|Epoch40/180|Iter3900(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2616| loss_bbox:0.3570| loss_dfl:0.2044| loss_feat_kd:10.5002| loss_cls_kd:0.0796| loss_reg_kd:0.0931| 
+[NanoDet][08-25 22:55:43]INFO: Train|Epoch40/180|Iter3950(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3895| loss_bbox:0.6099| loss_dfl:0.2281| loss_feat_kd:15.5604| loss_cls_kd:0.0783| loss_reg_kd:0.0876| 
+[NanoDet][08-25 22:55:49]INFO: Val|Epoch40/180|Iter4000(1/13)| mem:0G| lr:7.00e-02| loss_qfl:0.3278| loss_bbox:0.4501| loss_dfl:0.2333| 
+[NanoDet][08-25 22:55:51]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.295
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.606
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.245
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.013
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.321
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.354
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.506
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.548
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.417
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.567
+
+[NanoDet][08-25 22:55:51]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 60.6   | 29.5  |
+[NanoDet][08-25 22:55:51]INFO: Saving model to workspace/nanodet_m_100kb_loss_cls_kvasir\model_best\nanodet_model_best.pth
+[NanoDet][08-25 22:55:51]INFO: Val_metrics: {'mAP': np.float64(0.2951916958299384), 'AP_50': np.float64(0.6061050208431084), 'AP_75': np.float64(0.24489299210862617), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.013491690799564962), 'AP_l': np.float64(0.32076609326531913)}
+[NanoDet][08-25 22:55:51]INFO: Train|Epoch41/180|Iter4000(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2769| loss_bbox:0.4854| loss_dfl:0.2096| loss_feat_kd:19.9914| loss_cls_kd:0.0777| loss_reg_kd:0.0964| 
+[NanoDet][08-25 22:55:58]INFO: Train|Epoch41/180|Iter4050(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2133| loss_bbox:0.5794| loss_dfl:0.2358| loss_feat_kd:13.5670| loss_cls_kd:0.0792| loss_reg_kd:0.0924| 
+[NanoDet][08-25 22:56:04]INFO: Train|Epoch42/180|Iter4100(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3914| loss_bbox:0.5901| loss_dfl:0.2221| loss_feat_kd:12.7466| loss_cls_kd:0.0750| loss_reg_kd:0.0813| 
+[NanoDet][08-25 22:56:10]INFO: Train|Epoch42/180|Iter4150(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3340| loss_bbox:0.4571| loss_dfl:0.2167| loss_feat_kd:14.1980| loss_cls_kd:0.0733| loss_reg_kd:0.0821| 
+[NanoDet][08-25 22:56:15]INFO: Train|Epoch43/180|Iter4200(1)| mem:0G| lr:7.00e-02| loss_qfl:0.5029| loss_bbox:0.5213| loss_dfl:0.2304| loss_feat_kd:9.3074| loss_cls_kd:0.0851| loss_reg_kd:0.0864| 
+[NanoDet][08-25 22:56:21]INFO: Train|Epoch43/180|Iter4250(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3798| loss_bbox:0.4942| loss_dfl:0.2685| loss_feat_kd:9.8630| loss_cls_kd:0.0877| loss_reg_kd:0.0962| 
+[NanoDet][08-25 22:56:28]INFO: Train|Epoch44/180|Iter4300(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3880| loss_bbox:0.6046| loss_dfl:0.2659| loss_feat_kd:14.9526| loss_cls_kd:0.0780| loss_reg_kd:0.0937| 
+[NanoDet][08-25 22:56:34]INFO: Train|Epoch44/180|Iter4350(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3243| loss_bbox:0.6683| loss_dfl:0.2695| loss_feat_kd:15.0981| loss_cls_kd:0.0944| loss_reg_kd:0.0938| 
+[NanoDet][08-25 22:56:40]INFO: Train|Epoch45/180|Iter4400(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3107| loss_bbox:0.5567| loss_dfl:0.2446| loss_feat_kd:13.9804| loss_cls_kd:0.0910| loss_reg_kd:0.0991| 
+[NanoDet][08-25 22:56:46]INFO: Train|Epoch45/180|Iter4450(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2991| loss_bbox:0.4857| loss_dfl:0.2400| loss_feat_kd:13.4473| loss_cls_kd:0.0805| loss_reg_kd:0.0917| 
+[NanoDet][08-25 22:56:52]INFO: Train|Epoch46/180|Iter4500(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2404| loss_bbox:0.4497| loss_dfl:0.2089| loss_feat_kd:14.6846| loss_cls_kd:0.0763| loss_reg_kd:0.0885| 
+[NanoDet][08-25 22:56:59]INFO: Train|Epoch46/180|Iter4550(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2150| loss_bbox:0.4814| loss_dfl:0.2110| loss_feat_kd:18.1303| loss_cls_kd:0.0772| loss_reg_kd:0.0926| 
+[NanoDet][08-25 22:57:06]INFO: Train|Epoch47/180|Iter4600(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3041| loss_bbox:0.5391| loss_dfl:0.2474| loss_feat_kd:13.9983| loss_cls_kd:0.0837| loss_reg_kd:0.0948| 
+[NanoDet][08-25 22:57:13]INFO: Train|Epoch47/180|Iter4650(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4386| loss_bbox:0.5005| loss_dfl:0.2145| loss_feat_kd:22.2525| loss_cls_kd:0.0771| loss_reg_kd:0.1074| 
+[NanoDet][08-25 22:57:19]INFO: Train|Epoch48/180|Iter4700(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3648| loss_bbox:0.6010| loss_dfl:0.2673| loss_feat_kd:10.3729| loss_cls_kd:0.0689| loss_reg_kd:0.0856| 
+[NanoDet][08-25 22:57:26]INFO: Train|Epoch48/180|Iter4750(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4537| loss_bbox:0.5131| loss_dfl:0.2317| loss_feat_kd:11.3090| loss_cls_kd:0.0842| loss_reg_kd:0.0942| 
+[NanoDet][08-25 22:57:32]INFO: Train|Epoch49/180|Iter4800(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2929| loss_bbox:0.5932| loss_dfl:0.2220| loss_feat_kd:17.7309| loss_cls_kd:0.0735| loss_reg_kd:0.0915| 
+[NanoDet][08-25 22:57:38]INFO: Train|Epoch49/180|Iter4850(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3640| loss_bbox:0.5240| loss_dfl:0.2150| loss_feat_kd:20.0525| loss_cls_kd:0.0835| loss_reg_kd:0.0980| 
+[NanoDet][08-25 22:57:44]INFO: Train|Epoch50/180|Iter4900(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2798| loss_bbox:0.5002| loss_dfl:0.2057| loss_feat_kd:13.5149| loss_cls_kd:0.0852| loss_reg_kd:0.0976| 
+[NanoDet][08-25 22:57:49]INFO: Train|Epoch50/180|Iter4950(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2421| loss_bbox:0.5477| loss_dfl:0.2278| loss_feat_kd:11.4450| loss_cls_kd:0.0734| loss_reg_kd:0.0838| 
+[NanoDet][08-25 22:57:56]INFO: Val|Epoch50/180|Iter5000(1/13)| mem:0G| lr:7.00e-02| loss_qfl:0.3944| loss_bbox:0.4685| loss_dfl:0.2460| 
+[NanoDet][08-25 22:57:57]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.361
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.706
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.324
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.079
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.386
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.379
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.531
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.557
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.333
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.582
+
+[NanoDet][08-25 22:57:57]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 70.6   | 36.1  |
+[NanoDet][08-25 22:57:57]INFO: Saving model to workspace/nanodet_m_100kb_loss_cls_kvasir\model_best\nanodet_model_best.pth
+[NanoDet][08-25 22:57:57]INFO: Val_metrics: {'mAP': np.float64(0.3609385831661414), 'AP_50': np.float64(0.7058812293079617), 'AP_75': np.float64(0.3241197076850674), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.07905772377319546), 'AP_l': np.float64(0.3863184043970251)}
+[NanoDet][08-25 22:57:57]INFO: Train|Epoch51/180|Iter5000(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2765| loss_bbox:0.5367| loss_dfl:0.2294| loss_feat_kd:17.2493| loss_cls_kd:0.0812| loss_reg_kd:0.0995| 
+[NanoDet][08-25 22:58:03]INFO: Train|Epoch51/180|Iter5050(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3388| loss_bbox:0.4373| loss_dfl:0.2145| loss_feat_kd:11.1126| loss_cls_kd:0.0754| loss_reg_kd:0.0890| 
+[NanoDet][08-25 22:58:09]INFO: Train|Epoch52/180|Iter5100(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3502| loss_bbox:0.5736| loss_dfl:0.2436| loss_feat_kd:9.2872| loss_cls_kd:0.0825| loss_reg_kd:0.0877| 
+[NanoDet][08-25 22:58:15]INFO: Train|Epoch52/180|Iter5150(51)| mem:0G| lr:7.00e-02| loss_qfl:0.5074| loss_bbox:0.6087| loss_dfl:0.2392| loss_feat_kd:13.4417| loss_cls_kd:0.0858| loss_reg_kd:0.0919| 
+[NanoDet][08-25 22:58:21]INFO: Train|Epoch53/180|Iter5200(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4261| loss_bbox:0.6477| loss_dfl:0.2681| loss_feat_kd:7.3540| loss_cls_kd:0.0770| loss_reg_kd:0.0875| 
+[NanoDet][08-25 22:58:28]INFO: Train|Epoch53/180|Iter5250(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2818| loss_bbox:0.4653| loss_dfl:0.2292| loss_feat_kd:11.6336| loss_cls_kd:0.0718| loss_reg_kd:0.0878| 
+[NanoDet][08-25 22:58:34]INFO: Train|Epoch54/180|Iter5300(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4160| loss_bbox:0.4935| loss_dfl:0.2131| loss_feat_kd:11.0395| loss_cls_kd:0.0794| loss_reg_kd:0.0838| 
+[NanoDet][08-25 22:58:40]INFO: Train|Epoch54/180|Iter5350(51)| mem:0G| lr:7.00e-02| loss_qfl:0.6198| loss_bbox:0.6011| loss_dfl:0.2596| loss_feat_kd:8.0828| loss_cls_kd:0.0786| loss_reg_kd:0.0889| 
+[NanoDet][08-25 22:58:45]INFO: Train|Epoch55/180|Iter5400(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3524| loss_bbox:0.5122| loss_dfl:0.2363| loss_feat_kd:13.6490| loss_cls_kd:0.0845| loss_reg_kd:0.0962| 
+[NanoDet][08-25 22:58:51]INFO: Train|Epoch55/180|Iter5450(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3231| loss_bbox:0.4648| loss_dfl:0.2214| loss_feat_kd:15.1922| loss_cls_kd:0.0770| loss_reg_kd:0.0969| 
+[NanoDet][08-25 22:58:58]INFO: Train|Epoch56/180|Iter5500(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3011| loss_bbox:0.4017| loss_dfl:0.1868| loss_feat_kd:13.8822| loss_cls_kd:0.0733| loss_reg_kd:0.0922| 
+[NanoDet][08-25 22:59:04]INFO: Train|Epoch56/180|Iter5550(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3435| loss_bbox:0.5130| loss_dfl:0.2433| loss_feat_kd:12.3308| loss_cls_kd:0.0884| loss_reg_kd:0.1031| 
+[NanoDet][08-25 22:59:10]INFO: Train|Epoch57/180|Iter5600(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4435| loss_bbox:0.4394| loss_dfl:0.2176| loss_feat_kd:7.9356| loss_cls_kd:0.0706| loss_reg_kd:0.0813| 
+[NanoDet][08-25 22:59:16]INFO: Train|Epoch57/180|Iter5650(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4676| loss_bbox:0.4772| loss_dfl:0.2375| loss_feat_kd:9.3765| loss_cls_kd:0.0849| loss_reg_kd:0.0838| 
+[NanoDet][08-25 22:59:22]INFO: Train|Epoch58/180|Iter5700(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2685| loss_bbox:0.3903| loss_dfl:0.2066| loss_feat_kd:11.5477| loss_cls_kd:0.0801| loss_reg_kd:0.0901| 
+[NanoDet][08-25 22:59:29]INFO: Train|Epoch58/180|Iter5750(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2991| loss_bbox:0.4938| loss_dfl:0.2259| loss_feat_kd:12.0893| loss_cls_kd:0.0755| loss_reg_kd:0.0878| 
+[NanoDet][08-25 22:59:35]INFO: Train|Epoch59/180|Iter5800(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2352| loss_bbox:0.5883| loss_dfl:0.2367| loss_feat_kd:11.2854| loss_cls_kd:0.0840| loss_reg_kd:0.0918| 
+[NanoDet][08-25 22:59:40]INFO: Train|Epoch59/180|Iter5850(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3352| loss_bbox:0.4503| loss_dfl:0.2190| loss_feat_kd:11.5209| loss_cls_kd:0.0794| loss_reg_kd:0.0946| 
+[NanoDet][08-25 22:59:46]INFO: Train|Epoch60/180|Iter5900(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2831| loss_bbox:0.4579| loss_dfl:0.2204| loss_feat_kd:8.0397| loss_cls_kd:0.0736| loss_reg_kd:0.0850| 
+[NanoDet][08-25 22:59:52]INFO: Train|Epoch60/180|Iter5950(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4858| loss_bbox:0.4230| loss_dfl:0.2242| loss_feat_kd:8.8469| loss_cls_kd:0.0843| loss_reg_kd:0.0889| 
+[NanoDet][08-25 22:59:59]INFO: Val|Epoch60/180|Iter6000(1/13)| mem:0G| lr:7.00e-02| loss_qfl:0.4292| loss_bbox:0.4633| loss_dfl:0.2254| 
+[NanoDet][08-25 23:00:00]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.292
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.627
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.243
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.042
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.325
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.381
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.479
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.535
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.433
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.552
+
+[NanoDet][08-25 23:00:00]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 62.7   | 29.2  |
+[NanoDet][08-25 23:00:00]INFO: Val_metrics: {'mAP': np.float64(0.29227591984035173), 'AP_50': np.float64(0.6266377215572357), 'AP_75': np.float64(0.242895806408619), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.04231345767015673), 'AP_l': np.float64(0.3252023205068442)}
+[NanoDet][08-25 23:00:00]INFO: Train|Epoch61/180|Iter6000(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2447| loss_bbox:0.5666| loss_dfl:0.2623| loss_feat_kd:7.3898| loss_cls_kd:0.0793| loss_reg_kd:0.0845| 
+[NanoDet][08-25 23:00:06]INFO: Train|Epoch61/180|Iter6050(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3498| loss_bbox:0.5924| loss_dfl:0.2501| loss_feat_kd:8.2661| loss_cls_kd:0.0698| loss_reg_kd:0.0817| 
+[NanoDet][08-25 23:00:13]INFO: Train|Epoch62/180|Iter6100(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3504| loss_bbox:0.5475| loss_dfl:0.2389| loss_feat_kd:10.8129| loss_cls_kd:0.0846| loss_reg_kd:0.0881| 
+[NanoDet][08-25 23:00:18]INFO: Train|Epoch62/180|Iter6150(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2949| loss_bbox:0.5928| loss_dfl:0.2366| loss_feat_kd:10.4252| loss_cls_kd:0.0852| loss_reg_kd:0.0905| 
+[NanoDet][08-25 23:00:25]INFO: Train|Epoch63/180|Iter6200(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4169| loss_bbox:0.4825| loss_dfl:0.2321| loss_feat_kd:9.7187| loss_cls_kd:0.0764| loss_reg_kd:0.0909| 
+[NanoDet][08-25 23:00:32]INFO: Train|Epoch63/180|Iter6250(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3744| loss_bbox:0.5582| loss_dfl:0.2602| loss_feat_kd:13.2160| loss_cls_kd:0.0695| loss_reg_kd:0.0846| 
+[NanoDet][08-25 23:00:37]INFO: Train|Epoch64/180|Iter6300(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2347| loss_bbox:0.4817| loss_dfl:0.2623| loss_feat_kd:11.3348| loss_cls_kd:0.0741| loss_reg_kd:0.0852| 
+[NanoDet][08-25 23:00:43]INFO: Train|Epoch64/180|Iter6350(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3625| loss_bbox:0.5606| loss_dfl:0.2318| loss_feat_kd:15.2328| loss_cls_kd:0.0902| loss_reg_kd:0.0924| 
+[NanoDet][08-25 23:00:49]INFO: Train|Epoch65/180|Iter6400(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2158| loss_bbox:0.5751| loss_dfl:0.2566| loss_feat_kd:12.8279| loss_cls_kd:0.0845| loss_reg_kd:0.0891| 
+[NanoDet][08-25 23:00:56]INFO: Train|Epoch65/180|Iter6450(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2810| loss_bbox:0.4913| loss_dfl:0.2088| loss_feat_kd:15.3850| loss_cls_kd:0.0776| loss_reg_kd:0.0907| 
+[NanoDet][08-25 23:01:02]INFO: Train|Epoch66/180|Iter6500(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4856| loss_bbox:0.5754| loss_dfl:0.2565| loss_feat_kd:12.5864| loss_cls_kd:0.0833| loss_reg_kd:0.0841| 
+[NanoDet][08-25 23:01:08]INFO: Train|Epoch66/180|Iter6550(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3668| loss_bbox:0.4835| loss_dfl:0.2252| loss_feat_kd:9.0062| loss_cls_kd:0.0806| loss_reg_kd:0.0838| 
+[NanoDet][08-25 23:01:14]INFO: Train|Epoch67/180|Iter6600(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4399| loss_bbox:0.5519| loss_dfl:0.2388| loss_feat_kd:8.8279| loss_cls_kd:0.0752| loss_reg_kd:0.0775| 
+[NanoDet][08-25 23:01:20]INFO: Train|Epoch67/180|Iter6650(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4163| loss_bbox:0.5719| loss_dfl:0.2604| loss_feat_kd:11.4453| loss_cls_kd:0.0809| loss_reg_kd:0.0850| 
+[NanoDet][08-25 23:01:27]INFO: Train|Epoch68/180|Iter6700(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3723| loss_bbox:0.5582| loss_dfl:0.2500| loss_feat_kd:8.5318| loss_cls_kd:0.0708| loss_reg_kd:0.0881| 
+[NanoDet][08-25 23:01:32]INFO: Train|Epoch68/180|Iter6750(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2632| loss_bbox:0.4565| loss_dfl:0.2225| loss_feat_kd:13.0989| loss_cls_kd:0.0790| loss_reg_kd:0.0903| 
+[NanoDet][08-25 23:01:38]INFO: Train|Epoch69/180|Iter6800(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2880| loss_bbox:0.4110| loss_dfl:0.2159| loss_feat_kd:11.8258| loss_cls_kd:0.0702| loss_reg_kd:0.0842| 
+[NanoDet][08-25 23:01:44]INFO: Train|Epoch69/180|Iter6850(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3944| loss_bbox:0.4717| loss_dfl:0.2363| loss_feat_kd:10.8706| loss_cls_kd:0.0766| loss_reg_kd:0.0864| 
+[NanoDet][08-25 23:01:50]INFO: Train|Epoch70/180|Iter6900(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2958| loss_bbox:0.4522| loss_dfl:0.2229| loss_feat_kd:8.3839| loss_cls_kd:0.0693| loss_reg_kd:0.0841| 
+[NanoDet][08-25 23:01:57]INFO: Train|Epoch70/180|Iter6950(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3944| loss_bbox:0.5310| loss_dfl:0.2260| loss_feat_kd:10.1161| loss_cls_kd:0.0857| loss_reg_kd:0.0850| 
+[NanoDet][08-25 23:02:03]INFO: Val|Epoch70/180|Iter7000(1/13)| mem:0G| lr:7.00e-02| loss_qfl:0.3661| loss_bbox:0.4189| loss_dfl:0.2198| 
+[NanoDet][08-25 23:02:04]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.296
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.618
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.209
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.097
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.316
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.329
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.484
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.506
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.367
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.524
+
+[NanoDet][08-25 23:02:04]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 61.8   | 29.6  |
+[NanoDet][08-25 23:02:04]INFO: Val_metrics: {'mAP': np.float64(0.29570842907973166), 'AP_50': np.float64(0.6178740275748015), 'AP_75': np.float64(0.20891382524194363), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.09741244813112694), 'AP_l': np.float64(0.31648191771941525)}
+[NanoDet][08-25 23:02:04]INFO: Train|Epoch71/180|Iter7000(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2925| loss_bbox:0.5687| loss_dfl:0.2257| loss_feat_kd:9.3922| loss_cls_kd:0.0835| loss_reg_kd:0.0896| 
+[NanoDet][08-25 23:02:11]INFO: Train|Epoch71/180|Iter7050(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3887| loss_bbox:0.5219| loss_dfl:0.2272| loss_feat_kd:13.1553| loss_cls_kd:0.0842| loss_reg_kd:0.0860| 
+[NanoDet][08-25 23:02:17]INFO: Train|Epoch72/180|Iter7100(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2898| loss_bbox:0.5961| loss_dfl:0.2576| loss_feat_kd:8.1806| loss_cls_kd:0.0817| loss_reg_kd:0.0902| 
+[NanoDet][08-25 23:02:23]INFO: Train|Epoch72/180|Iter7150(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3963| loss_bbox:0.4764| loss_dfl:0.2120| loss_feat_kd:8.2520| loss_cls_kd:0.0768| loss_reg_kd:0.0819| 
+[NanoDet][08-25 23:02:29]INFO: Train|Epoch73/180|Iter7200(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3112| loss_bbox:0.5553| loss_dfl:0.2547| loss_feat_kd:10.6139| loss_cls_kd:0.0857| loss_reg_kd:0.0842| 
+[NanoDet][08-25 23:02:35]INFO: Train|Epoch73/180|Iter7250(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3596| loss_bbox:0.4460| loss_dfl:0.2124| loss_feat_kd:9.1424| loss_cls_kd:0.0778| loss_reg_kd:0.0838| 
+[NanoDet][08-25 23:02:41]INFO: Train|Epoch74/180|Iter7300(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2971| loss_bbox:0.5354| loss_dfl:0.2184| loss_feat_kd:12.0161| loss_cls_kd:0.0765| loss_reg_kd:0.0873| 
+[NanoDet][08-25 23:02:47]INFO: Train|Epoch74/180|Iter7350(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3897| loss_bbox:0.5341| loss_dfl:0.2542| loss_feat_kd:10.8914| loss_cls_kd:0.0760| loss_reg_kd:0.0898| 
+[NanoDet][08-25 23:02:54]INFO: Train|Epoch75/180|Iter7400(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3015| loss_bbox:0.6115| loss_dfl:0.2612| loss_feat_kd:9.9659| loss_cls_kd:0.0769| loss_reg_kd:0.0862| 
+[NanoDet][08-25 23:03:00]INFO: Train|Epoch75/180|Iter7450(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3938| loss_bbox:0.4627| loss_dfl:0.2260| loss_feat_kd:9.9145| loss_cls_kd:0.0744| loss_reg_kd:0.0829| 
+[NanoDet][08-25 23:03:06]INFO: Train|Epoch76/180|Iter7500(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2982| loss_bbox:0.4761| loss_dfl:0.2125| loss_feat_kd:14.7227| loss_cls_kd:0.0753| loss_reg_kd:0.0864| 
+[NanoDet][08-25 23:03:12]INFO: Train|Epoch76/180|Iter7550(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3881| loss_bbox:0.6100| loss_dfl:0.2224| loss_feat_kd:11.6685| loss_cls_kd:0.0840| loss_reg_kd:0.0908| 
+[NanoDet][08-25 23:03:18]INFO: Train|Epoch77/180|Iter7600(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4566| loss_bbox:0.5502| loss_dfl:0.2449| loss_feat_kd:7.2907| loss_cls_kd:0.0745| loss_reg_kd:0.0787| 
+[NanoDet][08-25 23:03:25]INFO: Train|Epoch77/180|Iter7650(51)| mem:0G| lr:7.00e-02| loss_qfl:0.5424| loss_bbox:0.4771| loss_dfl:0.2386| loss_feat_kd:14.0967| loss_cls_kd:0.0748| loss_reg_kd:0.0959| 
+[NanoDet][08-25 23:03:30]INFO: Train|Epoch78/180|Iter7700(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3831| loss_bbox:0.5100| loss_dfl:0.2278| loss_feat_kd:8.2331| loss_cls_kd:0.0722| loss_reg_kd:0.0832| 
+[NanoDet][08-25 23:03:37]INFO: Train|Epoch78/180|Iter7750(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4687| loss_bbox:0.6427| loss_dfl:0.2527| loss_feat_kd:14.2308| loss_cls_kd:0.0750| loss_reg_kd:0.0913| 
+[NanoDet][08-25 23:03:43]INFO: Train|Epoch79/180|Iter7800(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4808| loss_bbox:0.5602| loss_dfl:0.2319| loss_feat_kd:7.9130| loss_cls_kd:0.0800| loss_reg_kd:0.0884| 
+[NanoDet][08-25 23:03:48]INFO: Train|Epoch79/180|Iter7850(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2808| loss_bbox:0.5244| loss_dfl:0.2367| loss_feat_kd:14.0895| loss_cls_kd:0.0826| loss_reg_kd:0.0918| 
+[NanoDet][08-25 23:03:55]INFO: Train|Epoch80/180|Iter7900(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3957| loss_bbox:0.4966| loss_dfl:0.2305| loss_feat_kd:15.0452| loss_cls_kd:0.0788| loss_reg_kd:0.0921| 
+[NanoDet][08-25 23:04:02]INFO: Train|Epoch80/180|Iter7950(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2927| loss_bbox:0.3913| loss_dfl:0.2126| loss_feat_kd:9.4605| loss_cls_kd:0.0720| loss_reg_kd:0.0828| 
+[NanoDet][08-25 23:04:07]INFO: Val|Epoch80/180|Iter8000(1/13)| mem:0G| lr:7.00e-02| loss_qfl:0.3671| loss_bbox:0.5161| loss_dfl:0.2562| 
+[NanoDet][08-25 23:04:08]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.338
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.712
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.248
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.082
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.360
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.377
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.508
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.540
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.450
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.557
+
+[NanoDet][08-25 23:04:08]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 71.2   | 33.8  |
+[NanoDet][08-25 23:04:08]INFO: Val_metrics: {'mAP': np.float64(0.3375095201461087), 'AP_50': np.float64(0.7121769490487617), 'AP_75': np.float64(0.2482156971816782), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.08158854856629677), 'AP_l': np.float64(0.36048367844796836)}
+[NanoDet][08-25 23:04:08]INFO: Train|Epoch81/180|Iter8000(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3517| loss_bbox:0.4864| loss_dfl:0.2165| loss_feat_kd:6.7584| loss_cls_kd:0.0816| loss_reg_kd:0.0863| 
+[NanoDet][08-25 23:04:15]INFO: Train|Epoch81/180|Iter8050(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3359| loss_bbox:0.4794| loss_dfl:0.2044| loss_feat_kd:15.9766| loss_cls_kd:0.0765| loss_reg_kd:0.0863| 
+[NanoDet][08-25 23:04:21]INFO: Train|Epoch82/180|Iter8100(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3156| loss_bbox:0.5393| loss_dfl:0.2113| loss_feat_kd:7.6897| loss_cls_kd:0.0751| loss_reg_kd:0.0826| 
+[NanoDet][08-25 23:04:28]INFO: Train|Epoch82/180|Iter8150(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4321| loss_bbox:0.5388| loss_dfl:0.2404| loss_feat_kd:7.5206| loss_cls_kd:0.0762| loss_reg_kd:0.0786| 
+[NanoDet][08-25 23:04:34]INFO: Train|Epoch83/180|Iter8200(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3278| loss_bbox:0.3809| loss_dfl:0.1967| loss_feat_kd:11.8825| loss_cls_kd:0.0776| loss_reg_kd:0.0886| 
+[NanoDet][08-25 23:04:40]INFO: Train|Epoch83/180|Iter8250(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2691| loss_bbox:0.4246| loss_dfl:0.1962| loss_feat_kd:13.1310| loss_cls_kd:0.0761| loss_reg_kd:0.0856| 
+[NanoDet][08-25 23:04:45]INFO: Train|Epoch84/180|Iter8300(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3744| loss_bbox:0.6187| loss_dfl:0.2185| loss_feat_kd:9.8834| loss_cls_kd:0.0878| loss_reg_kd:0.0923| 
+[NanoDet][08-25 23:04:51]INFO: Train|Epoch84/180|Iter8350(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3587| loss_bbox:0.4942| loss_dfl:0.2084| loss_feat_kd:14.7484| loss_cls_kd:0.0684| loss_reg_kd:0.0830| 
+[NanoDet][08-25 23:04:59]INFO: Train|Epoch85/180|Iter8400(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2717| loss_bbox:0.6334| loss_dfl:0.2493| loss_feat_kd:14.1420| loss_cls_kd:0.0759| loss_reg_kd:0.0860| 
+[NanoDet][08-25 23:05:04]INFO: Train|Epoch85/180|Iter8450(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3391| loss_bbox:0.6047| loss_dfl:0.2291| loss_feat_kd:14.7164| loss_cls_kd:0.0805| loss_reg_kd:0.0909| 
+[NanoDet][08-25 23:05:10]INFO: Train|Epoch86/180|Iter8500(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3534| loss_bbox:0.6065| loss_dfl:0.2650| loss_feat_kd:10.8310| loss_cls_kd:0.0804| loss_reg_kd:0.0841| 
+[NanoDet][08-25 23:05:16]INFO: Train|Epoch86/180|Iter8550(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3765| loss_bbox:0.5766| loss_dfl:0.2141| loss_feat_kd:12.0381| loss_cls_kd:0.0756| loss_reg_kd:0.0866| 
+[NanoDet][08-25 23:05:22]INFO: Train|Epoch87/180|Iter8600(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4405| loss_bbox:0.5359| loss_dfl:0.2473| loss_feat_kd:9.2260| loss_cls_kd:0.0852| loss_reg_kd:0.0905| 
+[NanoDet][08-25 23:05:29]INFO: Train|Epoch87/180|Iter8650(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2388| loss_bbox:0.5498| loss_dfl:0.2558| loss_feat_kd:10.7655| loss_cls_kd:0.0755| loss_reg_kd:0.0885| 
+[NanoDet][08-25 23:05:35]INFO: Train|Epoch88/180|Iter8700(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2209| loss_bbox:0.5095| loss_dfl:0.2105| loss_feat_kd:15.4843| loss_cls_kd:0.0758| loss_reg_kd:0.0903| 
+[NanoDet][08-25 23:05:41]INFO: Train|Epoch88/180|Iter8750(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2660| loss_bbox:0.5135| loss_dfl:0.2295| loss_feat_kd:7.5862| loss_cls_kd:0.0654| loss_reg_kd:0.0814| 
+[NanoDet][08-25 23:05:47]INFO: Train|Epoch89/180|Iter8800(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2785| loss_bbox:0.7238| loss_dfl:0.2732| loss_feat_kd:15.4507| loss_cls_kd:0.0789| loss_reg_kd:0.0904| 
+[NanoDet][08-25 23:05:54]INFO: Train|Epoch89/180|Iter8850(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4803| loss_bbox:0.4475| loss_dfl:0.2177| loss_feat_kd:10.1390| loss_cls_kd:0.0824| loss_reg_kd:0.0850| 
+[NanoDet][08-25 23:06:00]INFO: Train|Epoch90/180|Iter8900(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3532| loss_bbox:0.4954| loss_dfl:0.2335| loss_feat_kd:14.2654| loss_cls_kd:0.0722| loss_reg_kd:0.0818| 
+[NanoDet][08-25 23:06:06]INFO: Train|Epoch90/180|Iter8950(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3432| loss_bbox:0.5226| loss_dfl:0.2790| loss_feat_kd:11.7970| loss_cls_kd:0.0762| loss_reg_kd:0.0888| 
+[NanoDet][08-25 23:06:12]INFO: Val|Epoch90/180|Iter9000(1/13)| mem:0G| lr:7.00e-02| loss_qfl:0.3430| loss_bbox:0.4269| loss_dfl:0.2292| 
+[NanoDet][08-25 23:06:13]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.376
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.678
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.384
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.203
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.399
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.410
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.552
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.592
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.567
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.605
+
+[NanoDet][08-25 23:06:13]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 67.8   | 37.6  |
+[NanoDet][08-25 23:06:13]INFO: Saving model to workspace/nanodet_m_100kb_loss_cls_kvasir\model_best\nanodet_model_best.pth
+[NanoDet][08-25 23:06:13]INFO: Val_metrics: {'mAP': np.float64(0.3763448832777841), 'AP_50': np.float64(0.6784483351459968), 'AP_75': np.float64(0.38365167293507185), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.202865228276567), 'AP_l': np.float64(0.39948913818044646)}
+[NanoDet][08-25 23:06:13]INFO: Train|Epoch91/180|Iter9000(1)| mem:0G| lr:7.00e-02| loss_qfl:0.5226| loss_bbox:0.4106| loss_dfl:0.2085| loss_feat_kd:8.7738| loss_cls_kd:0.0780| loss_reg_kd:0.0818| 
+[NanoDet][08-25 23:06:19]INFO: Train|Epoch91/180|Iter9050(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2284| loss_bbox:0.4160| loss_dfl:0.1928| loss_feat_kd:13.6366| loss_cls_kd:0.0765| loss_reg_kd:0.0866| 
+[NanoDet][08-25 23:06:26]INFO: Train|Epoch92/180|Iter9100(1)| mem:0G| lr:7.00e-02| loss_qfl:0.5469| loss_bbox:0.5024| loss_dfl:0.2161| loss_feat_kd:6.2200| loss_cls_kd:0.0705| loss_reg_kd:0.0811| 
+[NanoDet][08-25 23:06:32]INFO: Train|Epoch92/180|Iter9150(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2469| loss_bbox:0.6432| loss_dfl:0.2070| loss_feat_kd:17.5118| loss_cls_kd:0.0821| loss_reg_kd:0.0864| 
+[NanoDet][08-25 23:06:38]INFO: Train|Epoch93/180|Iter9200(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3781| loss_bbox:0.5789| loss_dfl:0.2272| loss_feat_kd:8.3063| loss_cls_kd:0.0808| loss_reg_kd:0.0871| 
+[NanoDet][08-25 23:06:44]INFO: Train|Epoch93/180|Iter9250(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3016| loss_bbox:0.4897| loss_dfl:0.2342| loss_feat_kd:11.1776| loss_cls_kd:0.0751| loss_reg_kd:0.0852| 
+[NanoDet][08-25 23:06:50]INFO: Train|Epoch94/180|Iter9300(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4252| loss_bbox:0.5288| loss_dfl:0.2508| loss_feat_kd:9.7102| loss_cls_kd:0.0856| loss_reg_kd:0.0997| 
+[NanoDet][08-25 23:06:57]INFO: Train|Epoch94/180|Iter9350(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2194| loss_bbox:0.4047| loss_dfl:0.1896| loss_feat_kd:12.5979| loss_cls_kd:0.0689| loss_reg_kd:0.0879| 
+[NanoDet][08-25 23:07:03]INFO: Train|Epoch95/180|Iter9400(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2980| loss_bbox:0.5198| loss_dfl:0.2354| loss_feat_kd:12.0884| loss_cls_kd:0.0725| loss_reg_kd:0.0798| 
+[NanoDet][08-25 23:07:09]INFO: Train|Epoch95/180|Iter9450(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3422| loss_bbox:0.5201| loss_dfl:0.2433| loss_feat_kd:10.6907| loss_cls_kd:0.0666| loss_reg_kd:0.0824| 
+[NanoDet][08-25 23:07:15]INFO: Train|Epoch96/180|Iter9500(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3355| loss_bbox:0.4504| loss_dfl:0.1977| loss_feat_kd:13.5457| loss_cls_kd:0.0758| loss_reg_kd:0.0871| 
+[NanoDet][08-25 23:07:21]INFO: Train|Epoch96/180|Iter9550(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3377| loss_bbox:0.6191| loss_dfl:0.2338| loss_feat_kd:12.1061| loss_cls_kd:0.0840| loss_reg_kd:0.0818| 
+[NanoDet][08-25 23:07:28]INFO: Train|Epoch97/180|Iter9600(1)| mem:0G| lr:7.00e-02| loss_qfl:0.5324| loss_bbox:0.6997| loss_dfl:0.2724| loss_feat_kd:12.3985| loss_cls_kd:0.0805| loss_reg_kd:0.0852| 
+[NanoDet][08-25 23:07:34]INFO: Train|Epoch97/180|Iter9650(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4342| loss_bbox:0.4809| loss_dfl:0.2070| loss_feat_kd:8.3491| loss_cls_kd:0.0889| loss_reg_kd:0.0916| 
+[NanoDet][08-25 23:07:40]INFO: Train|Epoch98/180|Iter9700(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3446| loss_bbox:0.5655| loss_dfl:0.1939| loss_feat_kd:18.2922| loss_cls_kd:0.0754| loss_reg_kd:0.0866| 
+[NanoDet][08-25 23:07:46]INFO: Train|Epoch98/180|Iter9750(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3444| loss_bbox:0.4560| loss_dfl:0.1995| loss_feat_kd:14.4751| loss_cls_kd:0.0789| loss_reg_kd:0.0881| 
+[NanoDet][08-25 23:07:52]INFO: Train|Epoch99/180|Iter9800(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3659| loss_bbox:0.5598| loss_dfl:0.2388| loss_feat_kd:8.2918| loss_cls_kd:0.0887| loss_reg_kd:0.0949| 
+[NanoDet][08-25 23:07:59]INFO: Train|Epoch99/180|Iter9850(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3718| loss_bbox:0.4092| loss_dfl:0.2172| loss_feat_kd:11.4401| loss_cls_kd:0.0693| loss_reg_kd:0.0790| 
+[NanoDet][08-25 23:08:05]INFO: Train|Epoch100/180|Iter9900(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3536| loss_bbox:0.5871| loss_dfl:0.2468| loss_feat_kd:10.6246| loss_cls_kd:0.0942| loss_reg_kd:0.0984| 
+[NanoDet][08-25 23:08:11]INFO: Train|Epoch100/180|Iter9950(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2570| loss_bbox:0.6340| loss_dfl:0.2716| loss_feat_kd:13.7130| loss_cls_kd:0.0894| loss_reg_kd:0.0862| 
+[NanoDet][08-25 23:08:16]INFO: Val|Epoch100/180|Iter10000(1/13)| mem:0G| lr:7.00e-02| loss_qfl:0.3966| loss_bbox:0.4638| loss_dfl:0.2374| 
+[NanoDet][08-25 23:08:17]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.356
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.695
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.322
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.144
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.379
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.408
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.532
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.561
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.483
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.577
+
+[NanoDet][08-25 23:08:17]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 69.5   | 35.6  |
+[NanoDet][08-25 23:08:17]INFO: Val_metrics: {'mAP': np.float64(0.35622768443335084), 'AP_50': np.float64(0.6949205424617434), 'AP_75': np.float64(0.3223789340798663), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.14353687484125108), 'AP_l': np.float64(0.37919546030266915)}
+[NanoDet][08-25 23:08:18]INFO: Train|Epoch101/180|Iter10000(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4701| loss_bbox:0.6107| loss_dfl:0.2312| loss_feat_kd:9.1493| loss_cls_kd:0.0797| loss_reg_kd:0.0846| 
+[NanoDet][08-25 23:08:25]INFO: Train|Epoch101/180|Iter10050(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3366| loss_bbox:0.4366| loss_dfl:0.2148| loss_feat_kd:14.5464| loss_cls_kd:0.0749| loss_reg_kd:0.0917| 
+[NanoDet][08-25 23:08:31]INFO: Train|Epoch102/180|Iter10100(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2895| loss_bbox:0.4395| loss_dfl:0.1926| loss_feat_kd:13.3253| loss_cls_kd:0.0815| loss_reg_kd:0.0891| 
+[NanoDet][08-25 23:08:37]INFO: Train|Epoch102/180|Iter10150(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3301| loss_bbox:0.5572| loss_dfl:0.1978| loss_feat_kd:12.5103| loss_cls_kd:0.0732| loss_reg_kd:0.0761| 
+[NanoDet][08-25 23:08:43]INFO: Train|Epoch103/180|Iter10200(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4305| loss_bbox:0.5199| loss_dfl:0.2632| loss_feat_kd:7.6587| loss_cls_kd:0.0793| loss_reg_kd:0.0800| 
+[NanoDet][08-25 23:08:48]INFO: Train|Epoch103/180|Iter10250(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3317| loss_bbox:0.4940| loss_dfl:0.2187| loss_feat_kd:9.7180| loss_cls_kd:0.0763| loss_reg_kd:0.0833| 
+[NanoDet][08-25 23:08:55]INFO: Train|Epoch104/180|Iter10300(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2794| loss_bbox:0.4546| loss_dfl:0.2072| loss_feat_kd:11.5947| loss_cls_kd:0.0761| loss_reg_kd:0.0814| 
+[NanoDet][08-25 23:09:02]INFO: Train|Epoch104/180|Iter10350(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4012| loss_bbox:0.5244| loss_dfl:0.2425| loss_feat_kd:11.7736| loss_cls_kd:0.0762| loss_reg_kd:0.0828| 
+[NanoDet][08-25 23:09:07]INFO: Train|Epoch105/180|Iter10400(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4749| loss_bbox:0.5401| loss_dfl:0.2267| loss_feat_kd:11.5791| loss_cls_kd:0.0766| loss_reg_kd:0.0778| 
+[NanoDet][08-25 23:09:13]INFO: Train|Epoch105/180|Iter10450(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2829| loss_bbox:0.4445| loss_dfl:0.1996| loss_feat_kd:14.7279| loss_cls_kd:0.0801| loss_reg_kd:0.0860| 
+[NanoDet][08-25 23:09:20]INFO: Train|Epoch106/180|Iter10500(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3231| loss_bbox:0.6682| loss_dfl:0.2579| loss_feat_kd:13.4362| loss_cls_kd:0.0689| loss_reg_kd:0.0820| 
+[NanoDet][08-25 23:09:27]INFO: Train|Epoch106/180|Iter10550(51)| mem:0G| lr:7.00e-02| loss_qfl:0.5169| loss_bbox:0.3811| loss_dfl:0.1950| loss_feat_kd:4.2751| loss_cls_kd:0.0879| loss_reg_kd:0.0809| 
+[NanoDet][08-25 23:09:33]INFO: Train|Epoch107/180|Iter10600(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4267| loss_bbox:0.5560| loss_dfl:0.2141| loss_feat_kd:13.0277| loss_cls_kd:0.0856| loss_reg_kd:0.0962| 
+[NanoDet][08-25 23:09:39]INFO: Train|Epoch107/180|Iter10650(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3265| loss_bbox:0.4424| loss_dfl:0.2280| loss_feat_kd:10.0674| loss_cls_kd:0.0734| loss_reg_kd:0.0888| 
+[NanoDet][08-25 23:09:44]INFO: Train|Epoch108/180|Iter10700(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3053| loss_bbox:0.4542| loss_dfl:0.2294| loss_feat_kd:11.4911| loss_cls_kd:0.0840| loss_reg_kd:0.0850| 
+[NanoDet][08-25 23:09:50]INFO: Train|Epoch108/180|Iter10750(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3334| loss_bbox:0.4069| loss_dfl:0.2099| loss_feat_kd:8.4466| loss_cls_kd:0.0807| loss_reg_kd:0.0804| 
+[NanoDet][08-25 23:09:58]INFO: Train|Epoch109/180|Iter10800(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3221| loss_bbox:0.4466| loss_dfl:0.2203| loss_feat_kd:14.7847| loss_cls_kd:0.0821| loss_reg_kd:0.0928| 
+[NanoDet][08-25 23:10:03]INFO: Train|Epoch109/180|Iter10850(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3089| loss_bbox:0.5982| loss_dfl:0.2483| loss_feat_kd:17.3593| loss_cls_kd:0.0877| loss_reg_kd:0.1038| 
+[NanoDet][08-25 23:10:09]INFO: Train|Epoch110/180|Iter10900(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2558| loss_bbox:0.6026| loss_dfl:0.2536| loss_feat_kd:16.0932| loss_cls_kd:0.0688| loss_reg_kd:0.0837| 
+[NanoDet][08-25 23:10:15]INFO: Train|Epoch110/180|Iter10950(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2185| loss_bbox:0.4732| loss_dfl:0.2308| loss_feat_kd:10.6748| loss_cls_kd:0.0818| loss_reg_kd:0.0900| 
+[NanoDet][08-25 23:10:21]INFO: Val|Epoch110/180|Iter11000(1/13)| mem:0G| lr:7.00e-02| loss_qfl:0.3247| loss_bbox:0.4536| loss_dfl:0.2342| 
+[NanoDet][08-25 23:10:22]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.381
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.751
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.356
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.099
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.406
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.409
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.543
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.567
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.417
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.588
+
+[NanoDet][08-25 23:10:22]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 75.1   | 38.1  |
+[NanoDet][08-25 23:10:22]INFO: Saving model to workspace/nanodet_m_100kb_loss_cls_kvasir\model_best\nanodet_model_best.pth
+[NanoDet][08-25 23:10:22]INFO: Val_metrics: {'mAP': np.float64(0.38126194455885987), 'AP_50': np.float64(0.751489731159993), 'AP_75': np.float64(0.3560745051428676), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.09865999204962511), 'AP_l': np.float64(0.40580868656012986)}
+[NanoDet][08-25 23:10:22]INFO: Train|Epoch111/180|Iter11000(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2885| loss_bbox:0.6098| loss_dfl:0.2296| loss_feat_kd:12.2761| loss_cls_kd:0.0755| loss_reg_kd:0.0817| 
+[NanoDet][08-25 23:10:30]INFO: Train|Epoch111/180|Iter11050(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2990| loss_bbox:0.5805| loss_dfl:0.2222| loss_feat_kd:15.1093| loss_cls_kd:0.0803| loss_reg_kd:0.0867| 
+[NanoDet][08-25 23:10:36]INFO: Train|Epoch112/180|Iter11100(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3504| loss_bbox:0.3850| loss_dfl:0.2059| loss_feat_kd:10.4159| loss_cls_kd:0.0772| loss_reg_kd:0.0916| 
+[NanoDet][08-25 23:10:42]INFO: Train|Epoch112/180|Iter11150(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3266| loss_bbox:0.5484| loss_dfl:0.2327| loss_feat_kd:14.8161| loss_cls_kd:0.0819| loss_reg_kd:0.0888| 
+[NanoDet][08-25 23:10:47]INFO: Train|Epoch113/180|Iter11200(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4198| loss_bbox:0.3137| loss_dfl:0.1755| loss_feat_kd:13.3954| loss_cls_kd:0.0686| loss_reg_kd:0.0891| 
+[NanoDet][08-25 23:10:55]INFO: Train|Epoch113/180|Iter11250(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4070| loss_bbox:0.6186| loss_dfl:0.2572| loss_feat_kd:6.3624| loss_cls_kd:0.0760| loss_reg_kd:0.0788| 
+[NanoDet][08-25 23:11:00]INFO: Train|Epoch114/180|Iter11300(1)| mem:0G| lr:7.00e-02| loss_qfl:0.5448| loss_bbox:0.5313| loss_dfl:0.2505| loss_feat_kd:8.4814| loss_cls_kd:0.0789| loss_reg_kd:0.0839| 
+[NanoDet][08-25 23:11:06]INFO: Train|Epoch114/180|Iter11350(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2547| loss_bbox:0.5509| loss_dfl:0.2350| loss_feat_kd:9.8038| loss_cls_kd:0.0768| loss_reg_kd:0.0876| 
+[NanoDet][08-25 23:11:12]INFO: Train|Epoch115/180|Iter11400(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3812| loss_bbox:0.6931| loss_dfl:0.2911| loss_feat_kd:11.3535| loss_cls_kd:0.0836| loss_reg_kd:0.0932| 
+[NanoDet][08-25 23:11:18]INFO: Train|Epoch115/180|Iter11450(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3448| loss_bbox:0.4669| loss_dfl:0.2253| loss_feat_kd:6.8492| loss_cls_kd:0.0766| loss_reg_kd:0.0788| 
+[NanoDet][08-25 23:11:25]INFO: Train|Epoch116/180|Iter11500(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2754| loss_bbox:0.4416| loss_dfl:0.1940| loss_feat_kd:16.3953| loss_cls_kd:0.0782| loss_reg_kd:0.0864| 
+[NanoDet][08-25 23:11:31]INFO: Train|Epoch116/180|Iter11550(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3586| loss_bbox:0.4926| loss_dfl:0.2469| loss_feat_kd:10.4088| loss_cls_kd:0.0771| loss_reg_kd:0.0903| 
+[NanoDet][08-25 23:11:37]INFO: Train|Epoch117/180|Iter11600(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4047| loss_bbox:0.3640| loss_dfl:0.1920| loss_feat_kd:10.6537| loss_cls_kd:0.0724| loss_reg_kd:0.0824| 
+[NanoDet][08-25 23:11:43]INFO: Train|Epoch117/180|Iter11650(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4688| loss_bbox:0.4888| loss_dfl:0.2203| loss_feat_kd:10.0465| loss_cls_kd:0.0751| loss_reg_kd:0.0822| 
+[NanoDet][08-25 23:11:49]INFO: Train|Epoch118/180|Iter11700(1)| mem:0G| lr:7.00e-02| loss_qfl:0.2459| loss_bbox:0.5352| loss_dfl:0.2176| loss_feat_kd:17.1254| loss_cls_kd:0.0696| loss_reg_kd:0.0810| 
+[NanoDet][08-25 23:11:56]INFO: Train|Epoch118/180|Iter11750(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3464| loss_bbox:0.6729| loss_dfl:0.2537| loss_feat_kd:11.9980| loss_cls_kd:0.0761| loss_reg_kd:0.0836| 
+[NanoDet][08-25 23:12:02]INFO: Train|Epoch119/180|Iter11800(1)| mem:0G| lr:7.00e-02| loss_qfl:0.1947| loss_bbox:0.6466| loss_dfl:0.2039| loss_feat_kd:15.9713| loss_cls_kd:0.0847| loss_reg_kd:0.0885| 
+[NanoDet][08-25 23:12:08]INFO: Train|Epoch119/180|Iter11850(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3913| loss_bbox:0.5058| loss_dfl:0.2342| loss_feat_kd:11.2040| loss_cls_kd:0.0859| loss_reg_kd:0.1024| 
+[NanoDet][08-25 23:12:14]INFO: Train|Epoch120/180|Iter11900(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4439| loss_bbox:0.5072| loss_dfl:0.2471| loss_feat_kd:8.0845| loss_cls_kd:0.0839| loss_reg_kd:0.0813| 
+[NanoDet][08-25 23:12:20]INFO: Train|Epoch120/180|Iter11950(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2809| loss_bbox:0.3697| loss_dfl:0.1938| loss_feat_kd:16.1343| loss_cls_kd:0.0708| loss_reg_kd:0.0836| 
+[NanoDet][08-25 23:12:27]INFO: Val|Epoch120/180|Iter12000(1/13)| mem:0G| lr:7.00e-02| loss_qfl:0.4198| loss_bbox:0.4442| loss_dfl:0.2341| 
+[NanoDet][08-25 23:12:28]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.305
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.613
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.227
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.259
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.321
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.377
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.521
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.564
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.550
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.577
+
+[NanoDet][08-25 23:12:28]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 61.3   | 30.5  |
+[NanoDet][08-25 23:12:28]INFO: Val_metrics: {'mAP': np.float64(0.30464840741656946), 'AP_50': np.float64(0.6126185057401657), 'AP_75': np.float64(0.22662523376314336), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.2588010328126409), 'AP_l': np.float64(0.32060989403465057)}
+[NanoDet][08-25 23:12:28]INFO: Train|Epoch121/180|Iter12000(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3523| loss_bbox:0.4562| loss_dfl:0.2093| loss_feat_kd:17.0305| loss_cls_kd:0.0769| loss_reg_kd:0.0860| 
+[NanoDet][08-25 23:12:34]INFO: Train|Epoch121/180|Iter12050(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3749| loss_bbox:0.5948| loss_dfl:0.2274| loss_feat_kd:13.8754| loss_cls_kd:0.0772| loss_reg_kd:0.0917| 
+[NanoDet][08-25 23:12:40]INFO: Train|Epoch122/180|Iter12100(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3296| loss_bbox:0.5329| loss_dfl:0.2119| loss_feat_kd:12.8873| loss_cls_kd:0.0837| loss_reg_kd:0.0904| 
+[NanoDet][08-25 23:12:46]INFO: Train|Epoch122/180|Iter12150(51)| mem:0G| lr:7.00e-02| loss_qfl:0.4043| loss_bbox:0.4730| loss_dfl:0.2325| loss_feat_kd:8.0707| loss_cls_kd:0.0720| loss_reg_kd:0.0774| 
+[NanoDet][08-25 23:12:52]INFO: Train|Epoch123/180|Iter12200(1)| mem:0G| lr:7.00e-02| loss_qfl:0.5209| loss_bbox:0.5362| loss_dfl:0.2311| loss_feat_kd:12.9854| loss_cls_kd:0.0798| loss_reg_kd:0.0936| 
+[NanoDet][08-25 23:12:59]INFO: Train|Epoch123/180|Iter12250(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2485| loss_bbox:0.7205| loss_dfl:0.2827| loss_feat_kd:5.1358| loss_cls_kd:0.0748| loss_reg_kd:0.0849| 
+[NanoDet][08-25 23:13:05]INFO: Train|Epoch124/180|Iter12300(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4260| loss_bbox:0.5830| loss_dfl:0.2259| loss_feat_kd:10.2725| loss_cls_kd:0.0861| loss_reg_kd:0.0874| 
+[NanoDet][08-25 23:13:11]INFO: Train|Epoch124/180|Iter12350(51)| mem:0G| lr:7.00e-02| loss_qfl:0.2999| loss_bbox:0.4891| loss_dfl:0.2308| loss_feat_kd:11.4788| loss_cls_kd:0.0856| loss_reg_kd:0.0936| 
+[NanoDet][08-25 23:13:17]INFO: Train|Epoch125/180|Iter12400(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3484| loss_bbox:0.4772| loss_dfl:0.2253| loss_feat_kd:12.1098| loss_cls_kd:0.0732| loss_reg_kd:0.0860| 
+[NanoDet][08-25 23:13:23]INFO: Train|Epoch125/180|Iter12450(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3370| loss_bbox:0.7203| loss_dfl:0.2924| loss_feat_kd:14.3578| loss_cls_kd:0.0849| loss_reg_kd:0.0871| 
+[NanoDet][08-25 23:13:30]INFO: Train|Epoch126/180|Iter12500(1)| mem:0G| lr:7.00e-02| loss_qfl:0.4770| loss_bbox:0.5060| loss_dfl:0.2302| loss_feat_kd:11.6310| loss_cls_kd:0.0846| loss_reg_kd:0.0890| 
+[NanoDet][08-25 23:13:35]INFO: Train|Epoch126/180|Iter12550(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3898| loss_bbox:0.4531| loss_dfl:0.2109| loss_feat_kd:9.5279| loss_cls_kd:0.0735| loss_reg_kd:0.0871| 
+[NanoDet][08-25 23:13:41]INFO: Train|Epoch127/180|Iter12600(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3520| loss_bbox:0.5231| loss_dfl:0.2710| loss_feat_kd:7.6355| loss_cls_kd:0.0697| loss_reg_kd:0.0800| 
+[NanoDet][08-25 23:13:47]INFO: Train|Epoch127/180|Iter12650(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3608| loss_bbox:0.6016| loss_dfl:0.2650| loss_feat_kd:10.5303| loss_cls_kd:0.0820| loss_reg_kd:0.0898| 
+[NanoDet][08-25 23:13:54]INFO: Train|Epoch128/180|Iter12700(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3693| loss_bbox:0.6074| loss_dfl:0.2794| loss_feat_kd:9.3135| loss_cls_kd:0.0861| loss_reg_kd:0.0872| 
+[NanoDet][08-25 23:14:00]INFO: Train|Epoch128/180|Iter12750(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3325| loss_bbox:0.4459| loss_dfl:0.2062| loss_feat_kd:9.0319| loss_cls_kd:0.0798| loss_reg_kd:0.0835| 
+[NanoDet][08-25 23:14:06]INFO: Train|Epoch129/180|Iter12800(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3020| loss_bbox:0.4163| loss_dfl:0.2257| loss_feat_kd:7.3712| loss_cls_kd:0.0782| loss_reg_kd:0.0841| 
+[NanoDet][08-25 23:14:12]INFO: Train|Epoch129/180|Iter12850(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3492| loss_bbox:0.7579| loss_dfl:0.2531| loss_feat_kd:12.2413| loss_cls_kd:0.0870| loss_reg_kd:0.0816| 
+[NanoDet][08-25 23:14:18]INFO: Train|Epoch130/180|Iter12900(1)| mem:0G| lr:7.00e-02| loss_qfl:0.3896| loss_bbox:0.3623| loss_dfl:0.1899| loss_feat_kd:12.4220| loss_cls_kd:0.0744| loss_reg_kd:0.0829| 
+[NanoDet][08-25 23:14:25]INFO: Train|Epoch130/180|Iter12950(51)| mem:0G| lr:7.00e-02| loss_qfl:0.3101| loss_bbox:0.5200| loss_dfl:0.2350| loss_feat_kd:14.9661| loss_cls_kd:0.0823| loss_reg_kd:0.0955| 
+[NanoDet][08-25 23:14:31]INFO: Val|Epoch130/180|Iter13000(1/13)| mem:0G| lr:7.00e-03| loss_qfl:0.3333| loss_bbox:0.4155| loss_dfl:0.2219| 
+[NanoDet][08-25 23:14:32]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.364
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.744
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.324
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.209
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.386
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.414
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.538
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.576
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.533
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.590
+
+[NanoDet][08-25 23:14:32]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 74.4   | 36.4  |
+[NanoDet][08-25 23:14:32]INFO: Val_metrics: {'mAP': np.float64(0.36436621627836985), 'AP_50': np.float64(0.7443494479238594), 'AP_75': np.float64(0.32353654066729853), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.2086986609663533), 'AP_l': np.float64(0.38554354619579817)}
+[NanoDet][08-25 23:14:32]INFO: Train|Epoch131/180|Iter13000(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3920| loss_bbox:0.5385| loss_dfl:0.2092| loss_feat_kd:12.0129| loss_cls_kd:0.0822| loss_reg_kd:0.0843| 
+[NanoDet][08-25 23:14:38]INFO: Train|Epoch131/180|Iter13050(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3463| loss_bbox:0.4439| loss_dfl:0.2132| loss_feat_kd:8.2898| loss_cls_kd:0.0768| loss_reg_kd:0.0822| 
+[NanoDet][08-25 23:14:44]INFO: Train|Epoch132/180|Iter13100(1)| mem:0G| lr:7.00e-03| loss_qfl:0.4215| loss_bbox:0.6706| loss_dfl:0.2548| loss_feat_kd:16.2064| loss_cls_kd:0.0957| loss_reg_kd:0.1030| 
+[NanoDet][08-25 23:14:49]INFO: Train|Epoch132/180|Iter13150(51)| mem:0G| lr:7.00e-03| loss_qfl:0.5101| loss_bbox:0.4778| loss_dfl:0.2098| loss_feat_kd:10.0500| loss_cls_kd:0.0814| loss_reg_kd:0.0854| 
+[NanoDet][08-25 23:14:56]INFO: Train|Epoch133/180|Iter13200(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3671| loss_bbox:0.3658| loss_dfl:0.1836| loss_feat_kd:11.1963| loss_cls_kd:0.0842| loss_reg_kd:0.0895| 
+[NanoDet][08-25 23:15:02]INFO: Train|Epoch133/180|Iter13250(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2500| loss_bbox:0.4592| loss_dfl:0.2245| loss_feat_kd:8.8494| loss_cls_kd:0.0719| loss_reg_kd:0.0828| 
+[NanoDet][08-25 23:15:08]INFO: Train|Epoch134/180|Iter13300(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3659| loss_bbox:0.5886| loss_dfl:0.1940| loss_feat_kd:17.0722| loss_cls_kd:0.0807| loss_reg_kd:0.0860| 
+[NanoDet][08-25 23:15:14]INFO: Train|Epoch134/180|Iter13350(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2940| loss_bbox:0.3821| loss_dfl:0.2126| loss_feat_kd:8.6920| loss_cls_kd:0.0752| loss_reg_kd:0.0799| 
+[NanoDet][08-25 23:15:20]INFO: Train|Epoch135/180|Iter13400(1)| mem:0G| lr:7.00e-03| loss_qfl:0.2382| loss_bbox:0.4805| loss_dfl:0.2179| loss_feat_kd:11.1622| loss_cls_kd:0.0807| loss_reg_kd:0.0870| 
+[NanoDet][08-25 23:15:27]INFO: Train|Epoch135/180|Iter13450(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2619| loss_bbox:0.4512| loss_dfl:0.2100| loss_feat_kd:6.2436| loss_cls_kd:0.0718| loss_reg_kd:0.0746| 
+[NanoDet][08-25 23:15:32]INFO: Train|Epoch136/180|Iter13500(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3025| loss_bbox:0.4755| loss_dfl:0.2030| loss_feat_kd:11.8458| loss_cls_kd:0.0796| loss_reg_kd:0.0819| 
+[NanoDet][08-25 23:15:39]INFO: Train|Epoch136/180|Iter13550(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3286| loss_bbox:0.3979| loss_dfl:0.1872| loss_feat_kd:13.6624| loss_cls_kd:0.0750| loss_reg_kd:0.0841| 
+[NanoDet][08-25 23:15:44]INFO: Train|Epoch137/180|Iter13600(1)| mem:0G| lr:7.00e-03| loss_qfl:0.2635| loss_bbox:0.4536| loss_dfl:0.1989| loss_feat_kd:12.8205| loss_cls_kd:0.0716| loss_reg_kd:0.0850| 
+[NanoDet][08-25 23:15:50]INFO: Train|Epoch137/180|Iter13650(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2829| loss_bbox:0.4193| loss_dfl:0.2075| loss_feat_kd:10.2161| loss_cls_kd:0.0830| loss_reg_kd:0.0931| 
+[NanoDet][08-25 23:15:58]INFO: Train|Epoch138/180|Iter13700(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3001| loss_bbox:0.5352| loss_dfl:0.2194| loss_feat_kd:15.0246| loss_cls_kd:0.0785| loss_reg_kd:0.0908| 
+[NanoDet][08-25 23:16:03]INFO: Train|Epoch138/180|Iter13750(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2225| loss_bbox:0.4714| loss_dfl:0.1907| loss_feat_kd:13.9249| loss_cls_kd:0.0779| loss_reg_kd:0.0785| 
+[NanoDet][08-25 23:16:09]INFO: Train|Epoch139/180|Iter13800(1)| mem:0G| lr:7.00e-03| loss_qfl:0.2542| loss_bbox:0.4682| loss_dfl:0.2146| loss_feat_kd:15.3032| loss_cls_kd:0.0802| loss_reg_kd:0.0846| 
+[NanoDet][08-25 23:16:15]INFO: Train|Epoch139/180|Iter13850(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3744| loss_bbox:0.4755| loss_dfl:0.2298| loss_feat_kd:5.7524| loss_cls_kd:0.0723| loss_reg_kd:0.0753| 
+[NanoDet][08-25 23:16:21]INFO: Train|Epoch140/180|Iter13900(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3605| loss_bbox:0.3736| loss_dfl:0.1829| loss_feat_kd:9.9638| loss_cls_kd:0.0699| loss_reg_kd:0.0774| 
+[NanoDet][08-25 23:16:28]INFO: Train|Epoch140/180|Iter13950(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3388| loss_bbox:0.4147| loss_dfl:0.2027| loss_feat_kd:8.2523| loss_cls_kd:0.0858| loss_reg_kd:0.0853| 
+[NanoDet][08-25 23:16:34]INFO: Val|Epoch140/180|Iter14000(1/13)| mem:0G| lr:7.00e-03| loss_qfl:0.3072| loss_bbox:0.3838| loss_dfl:0.2067| 
+[NanoDet][08-25 23:16:35]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.439
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.785
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.445
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.290
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.460
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.472
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.592
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.622
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.533
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.640
+
+[NanoDet][08-25 23:16:35]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 78.5   | 43.9  |
+[NanoDet][08-25 23:16:35]INFO: Saving model to workspace/nanodet_m_100kb_loss_cls_kvasir\model_best\nanodet_model_best.pth
+[NanoDet][08-25 23:16:35]INFO: Val_metrics: {'mAP': np.float64(0.4392945943209188), 'AP_50': np.float64(0.7849010919176429), 'AP_75': np.float64(0.44500782665503), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.28958644857639204), 'AP_l': np.float64(0.46034054319696244)}
+[NanoDet][08-25 23:16:35]INFO: Train|Epoch141/180|Iter14000(1)| mem:0G| lr:7.00e-03| loss_qfl:0.4680| loss_bbox:0.4961| loss_dfl:0.2176| loss_feat_kd:5.7640| loss_cls_kd:0.0706| loss_reg_kd:0.0770| 
+[NanoDet][08-25 23:16:41]INFO: Train|Epoch141/180|Iter14050(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3108| loss_bbox:0.4094| loss_dfl:0.1898| loss_feat_kd:9.7059| loss_cls_kd:0.0744| loss_reg_kd:0.0843| 
+[NanoDet][08-25 23:16:46]INFO: Train|Epoch142/180|Iter14100(1)| mem:0G| lr:7.00e-03| loss_qfl:0.4292| loss_bbox:0.3977| loss_dfl:0.2028| loss_feat_kd:7.3531| loss_cls_kd:0.0668| loss_reg_kd:0.0778| 
+[NanoDet][08-25 23:16:54]INFO: Train|Epoch142/180|Iter14150(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3801| loss_bbox:0.4720| loss_dfl:0.2263| loss_feat_kd:12.2078| loss_cls_kd:0.0779| loss_reg_kd:0.0792| 
+[NanoDet][08-25 23:17:00]INFO: Train|Epoch143/180|Iter14200(1)| mem:0G| lr:7.00e-03| loss_qfl:0.2634| loss_bbox:0.3688| loss_dfl:0.1978| loss_feat_kd:11.0660| loss_cls_kd:0.0675| loss_reg_kd:0.0829| 
+[NanoDet][08-25 23:17:06]INFO: Train|Epoch143/180|Iter14250(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2116| loss_bbox:0.3776| loss_dfl:0.1889| loss_feat_kd:10.1878| loss_cls_kd:0.0829| loss_reg_kd:0.0828| 
+[NanoDet][08-25 23:17:12]INFO: Train|Epoch144/180|Iter14300(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3321| loss_bbox:0.4045| loss_dfl:0.2152| loss_feat_kd:11.9262| loss_cls_kd:0.0834| loss_reg_kd:0.0799| 
+[NanoDet][08-25 23:17:18]INFO: Train|Epoch144/180|Iter14350(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3377| loss_bbox:0.5063| loss_dfl:0.2250| loss_feat_kd:8.8801| loss_cls_kd:0.0843| loss_reg_kd:0.0924| 
+[NanoDet][08-25 23:17:25]INFO: Train|Epoch145/180|Iter14400(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3251| loss_bbox:0.4858| loss_dfl:0.1829| loss_feat_kd:12.0510| loss_cls_kd:0.0871| loss_reg_kd:0.0795| 
+[NanoDet][08-25 23:17:31]INFO: Train|Epoch145/180|Iter14450(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2787| loss_bbox:0.4715| loss_dfl:0.1953| loss_feat_kd:13.8838| loss_cls_kd:0.0772| loss_reg_kd:0.0891| 
+[NanoDet][08-25 23:17:37]INFO: Train|Epoch146/180|Iter14500(1)| mem:0G| lr:7.00e-03| loss_qfl:0.2597| loss_bbox:0.4457| loss_dfl:0.2232| loss_feat_kd:7.0553| loss_cls_kd:0.0790| loss_reg_kd:0.0811| 
+[NanoDet][08-25 23:17:42]INFO: Train|Epoch146/180|Iter14550(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3135| loss_bbox:0.4242| loss_dfl:0.1943| loss_feat_kd:8.9646| loss_cls_kd:0.0764| loss_reg_kd:0.0771| 
+[NanoDet][08-25 23:17:48]INFO: Train|Epoch147/180|Iter14600(1)| mem:0G| lr:7.00e-03| loss_qfl:0.2841| loss_bbox:0.4416| loss_dfl:0.1962| loss_feat_kd:6.4849| loss_cls_kd:0.0770| loss_reg_kd:0.0743| 
+[NanoDet][08-25 23:17:56]INFO: Train|Epoch147/180|Iter14650(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2813| loss_bbox:0.3475| loss_dfl:0.1731| loss_feat_kd:10.5081| loss_cls_kd:0.0705| loss_reg_kd:0.0827| 
+[NanoDet][08-25 23:18:01]INFO: Train|Epoch148/180|Iter14700(1)| mem:0G| lr:7.00e-03| loss_qfl:0.4257| loss_bbox:0.3843| loss_dfl:0.1980| loss_feat_kd:6.8891| loss_cls_kd:0.0763| loss_reg_kd:0.0771| 
+[NanoDet][08-25 23:18:08]INFO: Train|Epoch148/180|Iter14750(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2793| loss_bbox:0.4035| loss_dfl:0.1945| loss_feat_kd:11.0867| loss_cls_kd:0.0792| loss_reg_kd:0.0849| 
+[NanoDet][08-25 23:18:14]INFO: Train|Epoch149/180|Iter14800(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3139| loss_bbox:0.4903| loss_dfl:0.2001| loss_feat_kd:14.3937| loss_cls_kd:0.0788| loss_reg_kd:0.0904| 
+[NanoDet][08-25 23:18:19]INFO: Train|Epoch149/180|Iter14850(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3009| loss_bbox:0.4007| loss_dfl:0.1998| loss_feat_kd:9.6624| loss_cls_kd:0.0744| loss_reg_kd:0.0790| 
+[NanoDet][08-25 23:18:27]INFO: Train|Epoch150/180|Iter14900(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3360| loss_bbox:0.4239| loss_dfl:0.1830| loss_feat_kd:9.4252| loss_cls_kd:0.0789| loss_reg_kd:0.0824| 
+[NanoDet][08-25 23:18:32]INFO: Train|Epoch150/180|Iter14950(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2391| loss_bbox:0.5203| loss_dfl:0.1926| loss_feat_kd:16.1769| loss_cls_kd:0.0852| loss_reg_kd:0.0908| 
+[NanoDet][08-25 23:18:38]INFO: Val|Epoch150/180|Iter15000(1/13)| mem:0G| lr:7.00e-03| loss_qfl:0.2931| loss_bbox:0.3669| loss_dfl:0.2003| 
+[NanoDet][08-25 23:18:39]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.446
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.781
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.443
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.277
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.468
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.494
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.608
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.634
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.583
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.649
+
+[NanoDet][08-25 23:18:39]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 78.1   | 44.6  |
+[NanoDet][08-25 23:18:39]INFO: Saving model to workspace/nanodet_m_100kb_loss_cls_kvasir\model_best\nanodet_model_best.pth
+[NanoDet][08-25 23:18:39]INFO: Val_metrics: {'mAP': np.float64(0.4463077868611063), 'AP_50': np.float64(0.7813660339784556), 'AP_75': np.float64(0.4429353349474354), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.27688849518713216), 'AP_l': np.float64(0.46832312076147076)}
+[NanoDet][08-25 23:18:39]INFO: Train|Epoch151/180|Iter15000(1)| mem:0G| lr:7.00e-03| loss_qfl:0.4308| loss_bbox:0.4158| loss_dfl:0.2048| loss_feat_kd:11.2396| loss_cls_kd:0.0741| loss_reg_kd:0.0804| 
+[NanoDet][08-25 23:18:46]INFO: Train|Epoch151/180|Iter15050(51)| mem:0G| lr:7.00e-03| loss_qfl:0.4328| loss_bbox:0.4793| loss_dfl:0.2076| loss_feat_kd:10.4331| loss_cls_kd:0.0779| loss_reg_kd:0.0772| 
+[NanoDet][08-25 23:18:51]INFO: Train|Epoch152/180|Iter15100(1)| mem:0G| lr:7.00e-03| loss_qfl:0.2405| loss_bbox:0.3608| loss_dfl:0.1959| loss_feat_kd:8.5424| loss_cls_kd:0.0725| loss_reg_kd:0.0842| 
+[NanoDet][08-25 23:18:59]INFO: Train|Epoch152/180|Iter15150(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2667| loss_bbox:0.4561| loss_dfl:0.2016| loss_feat_kd:11.4923| loss_cls_kd:0.0809| loss_reg_kd:0.0826| 
+[NanoDet][08-25 23:19:05]INFO: Train|Epoch153/180|Iter15200(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3947| loss_bbox:0.5350| loss_dfl:0.2815| loss_feat_kd:9.4190| loss_cls_kd:0.0877| loss_reg_kd:0.0956| 
+[NanoDet][08-25 23:19:11]INFO: Train|Epoch153/180|Iter15250(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3327| loss_bbox:0.4765| loss_dfl:0.2105| loss_feat_kd:8.9310| loss_cls_kd:0.0751| loss_reg_kd:0.0786| 
+[NanoDet][08-25 23:19:17]INFO: Train|Epoch154/180|Iter15300(1)| mem:0G| lr:7.00e-03| loss_qfl:0.4079| loss_bbox:0.5044| loss_dfl:0.2164| loss_feat_kd:10.3019| loss_cls_kd:0.0764| loss_reg_kd:0.0791| 
+[NanoDet][08-25 23:19:25]INFO: Train|Epoch154/180|Iter15350(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3579| loss_bbox:0.4294| loss_dfl:0.2272| loss_feat_kd:6.9610| loss_cls_kd:0.0702| loss_reg_kd:0.0778| 
+[NanoDet][08-25 23:19:30]INFO: Train|Epoch155/180|Iter15400(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3038| loss_bbox:0.4644| loss_dfl:0.1808| loss_feat_kd:14.2247| loss_cls_kd:0.0742| loss_reg_kd:0.0810| 
+[NanoDet][08-25 23:19:36]INFO: Train|Epoch155/180|Iter15450(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3157| loss_bbox:0.5886| loss_dfl:0.2688| loss_feat_kd:10.8081| loss_cls_kd:0.0784| loss_reg_kd:0.0813| 
+[NanoDet][08-25 23:19:42]INFO: Train|Epoch156/180|Iter15500(1)| mem:0G| lr:7.00e-03| loss_qfl:0.2551| loss_bbox:0.4294| loss_dfl:0.1919| loss_feat_kd:14.0220| loss_cls_kd:0.0877| loss_reg_kd:0.0954| 
+[NanoDet][08-25 23:19:48]INFO: Train|Epoch156/180|Iter15550(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2797| loss_bbox:0.3904| loss_dfl:0.1936| loss_feat_kd:13.2462| loss_cls_kd:0.0818| loss_reg_kd:0.0973| 
+[NanoDet][08-25 23:19:55]INFO: Train|Epoch157/180|Iter15600(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3458| loss_bbox:0.4164| loss_dfl:0.1926| loss_feat_kd:10.7821| loss_cls_kd:0.0849| loss_reg_kd:0.0841| 
+[NanoDet][08-25 23:20:01]INFO: Train|Epoch157/180|Iter15650(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2821| loss_bbox:0.6667| loss_dfl:0.2402| loss_feat_kd:11.9451| loss_cls_kd:0.0777| loss_reg_kd:0.0766| 
+[NanoDet][08-25 23:20:07]INFO: Train|Epoch158/180|Iter15700(1)| mem:0G| lr:7.00e-03| loss_qfl:0.2958| loss_bbox:0.4328| loss_dfl:0.1982| loss_feat_kd:6.8308| loss_cls_kd:0.0742| loss_reg_kd:0.0781| 
+[NanoDet][08-25 23:20:13]INFO: Train|Epoch158/180|Iter15750(51)| mem:0G| lr:7.00e-03| loss_qfl:0.2666| loss_bbox:0.4478| loss_dfl:0.2181| loss_feat_kd:8.7937| loss_cls_kd:0.0804| loss_reg_kd:0.0879| 
+[NanoDet][08-25 23:20:19]INFO: Train|Epoch159/180|Iter15800(1)| mem:0G| lr:7.00e-03| loss_qfl:0.2685| loss_bbox:0.3220| loss_dfl:0.1760| loss_feat_kd:14.9173| loss_cls_kd:0.0730| loss_reg_kd:0.0879| 
+[NanoDet][08-25 23:20:26]INFO: Train|Epoch159/180|Iter15850(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3530| loss_bbox:0.3956| loss_dfl:0.1890| loss_feat_kd:6.4806| loss_cls_kd:0.0697| loss_reg_kd:0.0781| 
+[NanoDet][08-25 23:20:32]INFO: Train|Epoch160/180|Iter15900(1)| mem:0G| lr:7.00e-03| loss_qfl:0.3342| loss_bbox:0.4552| loss_dfl:0.2141| loss_feat_kd:6.2944| loss_cls_kd:0.0728| loss_reg_kd:0.0781| 
+[NanoDet][08-25 23:20:38]INFO: Train|Epoch160/180|Iter15950(51)| mem:0G| lr:7.00e-03| loss_qfl:0.3592| loss_bbox:0.3625| loss_dfl:0.1817| loss_feat_kd:9.6350| loss_cls_kd:0.0842| loss_reg_kd:0.0871| 
+[NanoDet][08-25 23:20:44]INFO: Val|Epoch160/180|Iter16000(1/13)| mem:0G| lr:7.00e-04| loss_qfl:0.2944| loss_bbox:0.3827| loss_dfl:0.2087| 
+[NanoDet][08-25 23:20:45]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.423
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.759
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.419
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.264
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.444
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.468
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.594
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.616
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.550
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.632
+
+[NanoDet][08-25 23:20:45]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 75.9   | 42.3  |
+[NanoDet][08-25 23:20:45]INFO: Val_metrics: {'mAP': np.float64(0.4228086181039823), 'AP_50': np.float64(0.759447235151995), 'AP_75': np.float64(0.41901315553312957), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.2640578343548641), 'AP_l': np.float64(0.4441504295204267)}
+[NanoDet][08-25 23:20:45]INFO: Train|Epoch161/180|Iter16000(1)| mem:0G| lr:7.00e-04| loss_qfl:0.3969| loss_bbox:0.5914| loss_dfl:0.2494| loss_feat_kd:10.3094| loss_cls_kd:0.0783| loss_reg_kd:0.0876| 
+[NanoDet][08-25 23:20:51]INFO: Train|Epoch161/180|Iter16050(51)| mem:0G| lr:7.00e-04| loss_qfl:0.4440| loss_bbox:0.4339| loss_dfl:0.2164| loss_feat_kd:9.3139| loss_cls_kd:0.0805| loss_reg_kd:0.0801| 
+[NanoDet][08-25 23:20:58]INFO: Train|Epoch162/180|Iter16100(1)| mem:0G| lr:7.00e-04| loss_qfl:0.2134| loss_bbox:0.3751| loss_dfl:0.1886| loss_feat_kd:10.3961| loss_cls_kd:0.0747| loss_reg_kd:0.0795| 
+[NanoDet][08-25 23:21:04]INFO: Train|Epoch162/180|Iter16150(51)| mem:0G| lr:7.00e-04| loss_qfl:0.2884| loss_bbox:0.5607| loss_dfl:0.2103| loss_feat_kd:14.0187| loss_cls_kd:0.0757| loss_reg_kd:0.0801| 
+[NanoDet][08-25 23:21:10]INFO: Train|Epoch163/180|Iter16200(1)| mem:0G| lr:7.00e-04| loss_qfl:0.3025| loss_bbox:0.4141| loss_dfl:0.1863| loss_feat_kd:7.8032| loss_cls_kd:0.0752| loss_reg_kd:0.0765| 
+[NanoDet][08-25 23:21:16]INFO: Train|Epoch163/180|Iter16250(51)| mem:0G| lr:7.00e-04| loss_qfl:0.3845| loss_bbox:0.4136| loss_dfl:0.1904| loss_feat_kd:8.9120| loss_cls_kd:0.0795| loss_reg_kd:0.0798| 
+[NanoDet][08-25 23:21:22]INFO: Train|Epoch164/180|Iter16300(1)| mem:0G| lr:7.00e-04| loss_qfl:0.3147| loss_bbox:0.4569| loss_dfl:0.2117| loss_feat_kd:11.2784| loss_cls_kd:0.0723| loss_reg_kd:0.0793| 
+[NanoDet][08-25 23:21:29]INFO: Train|Epoch164/180|Iter16350(51)| mem:0G| lr:7.00e-04| loss_qfl:0.4214| loss_bbox:0.4562| loss_dfl:0.2140| loss_feat_kd:9.1292| loss_cls_kd:0.0704| loss_reg_kd:0.0779| 
+[NanoDet][08-25 23:21:35]INFO: Train|Epoch165/180|Iter16400(1)| mem:0G| lr:7.00e-04| loss_qfl:0.3947| loss_bbox:0.5344| loss_dfl:0.2346| loss_feat_kd:12.8368| loss_cls_kd:0.0891| loss_reg_kd:0.0895| 
+[NanoDet][08-25 23:21:41]INFO: Train|Epoch165/180|Iter16450(51)| mem:0G| lr:7.00e-04| loss_qfl:0.2783| loss_bbox:0.5022| loss_dfl:0.2165| loss_feat_kd:8.8567| loss_cls_kd:0.0700| loss_reg_kd:0.0801| 
+[NanoDet][08-25 23:21:47]INFO: Train|Epoch166/180|Iter16500(1)| mem:0G| lr:7.00e-04| loss_qfl:0.2543| loss_bbox:0.3827| loss_dfl:0.1847| loss_feat_kd:12.4089| loss_cls_kd:0.0792| loss_reg_kd:0.0840| 
+[NanoDet][08-25 23:21:53]INFO: Train|Epoch166/180|Iter16550(51)| mem:0G| lr:7.00e-04| loss_qfl:0.3024| loss_bbox:0.3535| loss_dfl:0.2006| loss_feat_kd:8.5413| loss_cls_kd:0.0812| loss_reg_kd:0.0833| 
+[NanoDet][08-25 23:22:00]INFO: Train|Epoch167/180|Iter16600(1)| mem:0G| lr:7.00e-04| loss_qfl:0.2545| loss_bbox:0.3739| loss_dfl:0.1991| loss_feat_kd:9.6100| loss_cls_kd:0.0752| loss_reg_kd:0.0851| 
+[NanoDet][08-25 23:22:05]INFO: Train|Epoch167/180|Iter16650(51)| mem:0G| lr:7.00e-04| loss_qfl:0.2548| loss_bbox:0.3466| loss_dfl:0.1910| loss_feat_kd:8.9682| loss_cls_kd:0.0709| loss_reg_kd:0.0818| 
+[NanoDet][08-25 23:22:12]INFO: Train|Epoch168/180|Iter16700(1)| mem:0G| lr:7.00e-04| loss_qfl:0.3330| loss_bbox:0.4938| loss_dfl:0.2288| loss_feat_kd:8.6208| loss_cls_kd:0.0826| loss_reg_kd:0.0798| 
+[NanoDet][08-25 23:22:18]INFO: Train|Epoch168/180|Iter16750(51)| mem:0G| lr:7.00e-04| loss_qfl:0.2947| loss_bbox:0.2937| loss_dfl:0.1710| loss_feat_kd:14.1599| loss_cls_kd:0.0697| loss_reg_kd:0.0844| 
+[NanoDet][08-25 23:22:24]INFO: Train|Epoch169/180|Iter16800(1)| mem:0G| lr:7.00e-04| loss_qfl:0.2941| loss_bbox:0.5701| loss_dfl:0.2354| loss_feat_kd:10.4275| loss_cls_kd:0.0794| loss_reg_kd:0.0749| 
+[NanoDet][08-25 23:22:31]INFO: Train|Epoch169/180|Iter16850(51)| mem:0G| lr:7.00e-04| loss_qfl:0.2434| loss_bbox:0.4337| loss_dfl:0.2040| loss_feat_kd:7.6694| loss_cls_kd:0.0786| loss_reg_kd:0.0773| 
+[NanoDet][08-25 23:22:37]INFO: Train|Epoch170/180|Iter16900(1)| mem:0G| lr:7.00e-04| loss_qfl:0.3441| loss_bbox:0.3265| loss_dfl:0.1826| loss_feat_kd:9.4951| loss_cls_kd:0.0748| loss_reg_kd:0.0802| 
+[NanoDet][08-25 23:22:42]INFO: Train|Epoch170/180|Iter16950(51)| mem:0G| lr:7.00e-04| loss_qfl:0.2428| loss_bbox:0.4349| loss_dfl:0.2022| loss_feat_kd:9.6793| loss_cls_kd:0.0723| loss_reg_kd:0.0774| 
+[NanoDet][08-25 23:22:48]INFO: Val|Epoch170/180|Iter17000(1/13)| mem:0G| lr:7.00e-04| loss_qfl:0.2919| loss_bbox:0.3654| loss_dfl:0.2026| 
+[NanoDet][08-25 23:22:49]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.444
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.781
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.458
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.265
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.466
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.485
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.608
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.630
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.517
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.649
+
+[NanoDet][08-25 23:22:49]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 78.1   | 44.4  |
+[NanoDet][08-25 23:22:49]INFO: Val_metrics: {'mAP': np.float64(0.44439128601402217), 'AP_50': np.float64(0.7807406688278169), 'AP_75': np.float64(0.458082627617873), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.26471004243281476), 'AP_l': np.float64(0.46629111489766534)}
+[NanoDet][08-25 23:22:49]INFO: Train|Epoch171/180|Iter17000(1)| mem:0G| lr:7.00e-04| loss_qfl:0.4699| loss_bbox:0.3770| loss_dfl:0.1880| loss_feat_kd:7.7304| loss_cls_kd:0.0691| loss_reg_kd:0.0794| 
+[NanoDet][08-25 23:22:56]INFO: Train|Epoch171/180|Iter17050(51)| mem:0G| lr:7.00e-04| loss_qfl:0.2990| loss_bbox:0.5030| loss_dfl:0.2263| loss_feat_kd:11.0952| loss_cls_kd:0.0801| loss_reg_kd:0.0810| 
+[NanoDet][08-25 23:23:02]INFO: Train|Epoch172/180|Iter17100(1)| mem:0G| lr:7.00e-04| loss_qfl:0.3415| loss_bbox:0.4131| loss_dfl:0.1938| loss_feat_kd:6.3384| loss_cls_kd:0.0724| loss_reg_kd:0.0730| 
+[NanoDet][08-25 23:23:08]INFO: Train|Epoch172/180|Iter17150(51)| mem:0G| lr:7.00e-04| loss_qfl:0.3966| loss_bbox:0.4910| loss_dfl:0.2373| loss_feat_kd:5.7655| loss_cls_kd:0.0794| loss_reg_kd:0.0742| 
+[NanoDet][08-25 23:23:14]INFO: Train|Epoch173/180|Iter17200(1)| mem:0G| lr:7.00e-04| loss_qfl:0.2623| loss_bbox:0.3819| loss_dfl:0.1995| loss_feat_kd:9.7589| loss_cls_kd:0.0754| loss_reg_kd:0.0790| 
+[NanoDet][08-25 23:23:20]INFO: Train|Epoch173/180|Iter17250(51)| mem:0G| lr:7.00e-04| loss_qfl:0.3073| loss_bbox:0.5111| loss_dfl:0.2234| loss_feat_kd:13.7310| loss_cls_kd:0.0850| loss_reg_kd:0.0882| 
+[NanoDet][08-25 23:23:27]INFO: Train|Epoch174/180|Iter17300(1)| mem:0G| lr:7.00e-04| loss_qfl:0.3062| loss_bbox:0.2955| loss_dfl:0.1617| loss_feat_kd:9.8958| loss_cls_kd:0.0749| loss_reg_kd:0.0822| 
+[NanoDet][08-25 23:23:33]INFO: Train|Epoch174/180|Iter17350(51)| mem:0G| lr:7.00e-04| loss_qfl:0.2783| loss_bbox:0.5865| loss_dfl:0.2507| loss_feat_kd:13.6609| loss_cls_kd:0.0859| loss_reg_kd:0.0946| 
+[NanoDet][08-25 23:23:39]INFO: Train|Epoch175/180|Iter17400(1)| mem:0G| lr:7.00e-04| loss_qfl:0.3055| loss_bbox:0.4755| loss_dfl:0.1944| loss_feat_kd:11.9051| loss_cls_kd:0.0854| loss_reg_kd:0.0894| 
+[NanoDet][08-25 23:23:44]INFO: Train|Epoch175/180|Iter17450(51)| mem:0G| lr:7.00e-04| loss_qfl:0.3417| loss_bbox:0.4786| loss_dfl:0.2259| loss_feat_kd:5.6596| loss_cls_kd:0.0812| loss_reg_kd:0.0770| 
+[NanoDet][08-25 23:23:51]INFO: Train|Epoch176/180|Iter17500(1)| mem:0G| lr:7.00e-05| loss_qfl:0.3046| loss_bbox:0.4318| loss_dfl:0.2154| loss_feat_kd:9.7353| loss_cls_kd:0.0702| loss_reg_kd:0.0789| 
+[NanoDet][08-25 23:23:57]INFO: Train|Epoch176/180|Iter17550(51)| mem:0G| lr:7.00e-05| loss_qfl:0.1898| loss_bbox:0.4260| loss_dfl:0.1930| loss_feat_kd:11.2590| loss_cls_kd:0.0706| loss_reg_kd:0.0804| 
+[NanoDet][08-25 23:24:03]INFO: Train|Epoch177/180|Iter17600(1)| mem:0G| lr:7.00e-05| loss_qfl:0.3947| loss_bbox:0.5760| loss_dfl:0.2791| loss_feat_kd:9.4181| loss_cls_kd:0.0787| loss_reg_kd:0.0780| 
+[NanoDet][08-25 23:24:10]INFO: Train|Epoch177/180|Iter17650(51)| mem:0G| lr:7.00e-05| loss_qfl:0.3114| loss_bbox:0.3714| loss_dfl:0.1811| loss_feat_kd:9.3253| loss_cls_kd:0.0773| loss_reg_kd:0.0808| 
+[NanoDet][08-25 23:24:15]INFO: Train|Epoch178/180|Iter17700(1)| mem:0G| lr:7.00e-05| loss_qfl:0.3158| loss_bbox:0.2666| loss_dfl:0.1735| loss_feat_kd:13.6261| loss_cls_kd:0.0750| loss_reg_kd:0.0897| 
+[NanoDet][08-25 23:24:21]INFO: Train|Epoch178/180|Iter17750(51)| mem:0G| lr:7.00e-05| loss_qfl:0.2874| loss_bbox:0.4066| loss_dfl:0.2053| loss_feat_kd:9.8555| loss_cls_kd:0.0785| loss_reg_kd:0.0801| 
+[NanoDet][08-25 23:24:28]INFO: Train|Epoch179/180|Iter17800(1)| mem:0G| lr:7.00e-05| loss_qfl:0.3469| loss_bbox:0.5024| loss_dfl:0.2261| loss_feat_kd:12.4037| loss_cls_kd:0.0765| loss_reg_kd:0.0815| 
+[NanoDet][08-25 23:24:34]INFO: Train|Epoch179/180|Iter17850(51)| mem:0G| lr:7.00e-05| loss_qfl:0.3814| loss_bbox:0.6390| loss_dfl:0.2294| loss_feat_kd:8.8131| loss_cls_kd:0.0792| loss_reg_kd:0.0762| 
+[NanoDet][08-25 23:24:40]INFO: Train|Epoch180/180|Iter17900(1)| mem:0G| lr:7.00e-05| loss_qfl:0.2791| loss_bbox:0.3524| loss_dfl:0.1988| loss_feat_kd:9.2934| loss_cls_kd:0.0641| loss_reg_kd:0.0810| 
+[NanoDet][08-25 23:24:46]INFO: Train|Epoch180/180|Iter17950(51)| mem:0G| lr:7.00e-05| loss_qfl:0.4546| loss_bbox:0.5307| loss_dfl:0.2614| loss_feat_kd:9.8206| loss_cls_kd:0.0798| loss_reg_kd:0.0832| 
+[NanoDet][08-25 23:24:51]INFO: Val|Epoch180/180|Iter18000(1/13)| mem:0G| lr:7.00e-05| loss_qfl:0.2927| loss_bbox:0.3701| loss_dfl:0.2029| 
+[NanoDet][08-25 23:24:52]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.442
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.785
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.432
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.270
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.463
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.478
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.595
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.626
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.567
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.642
+
+[NanoDet][08-25 23:24:52]INFO: 
+| class   | AP50   | mAP   |
+|:--------|:-------|:------|
+| polyp   | 78.5   | 44.2  |
+[NanoDet][08-25 23:24:52]INFO: Val_metrics: {'mAP': np.float64(0.4420390996482735), 'AP_50': np.float64(0.7850090670503171), 'AP_75': np.float64(0.4319343069122201), 'AP_small': np.float64(0.0), 'AP_m': np.float64(0.2704490968180788), 'AP_l': np.float64(0.46267716428163586)}
